@@ -22,4 +22,4 @@ https://twitter.com/DetlefBurkhardt/status/956660194943078401
 Day 5 was a more »laborized«-day. It was about walking and failing, content preparing, data cleansing, code experiments with travesing filesystems, thx to filepath.Walk(). Searching and alienating.  
 
 ### R1D6 (planned)
-Just setup an own playable #gobye build on gist. Hmm...
+Just setup an own playable #gobye build on gist. Hmm... Before I has to prepare a clustering of the StdLib.
