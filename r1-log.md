@@ -18,3 +18,5 @@ https://twitter.com/DetlefBurkhardt/status/956133235083436033
 One of my main targets collecting a valuable and reliable golang code corpus. So I can create some SCA Tools, incorporate testing and a streamlined go playground integration.  
 https://twitter.com/DetlefBurkhardt/status/956660194943078401
 
+### R1D5
+Day 5 was a more »laborized«-day. It was about walking and failing, content preparing, data cleansing, code experiments with travesing filesystems, thx to filepath.Walk(). Searching and alienating.  
