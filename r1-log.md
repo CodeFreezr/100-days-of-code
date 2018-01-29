@@ -19,9 +19,9 @@ One of my main targets collecting a valuable and reliable golang code corpus. So
 https://twitter.com/DetlefBurkhardt/status/956660194943078401
 
 ### R1D5
-Day 5 was a more »laborized«-day. It was about walking and failing, content preparing, data cleansing, code experiments with travesing filesystems, thx to filepath.Walk(). Searching and alienating.
+Day 5 was a more »laborized«-day. It was about walking and failing, content preparing, data cleansing, code experiments with travesing filesystems, thx to filepath.Walk(). Searching and alienating.  
 https://twitter.com/DetlefBurkhardt/status/957192967156051968
 
 ### R1D6 (planned)
-Done Clustering of the StdLib, add 4 new gobyes, remove 2. Tried GoReportCard and play around with goplay to get shareable URL's  for the go playground.
+Done Clustering of the StdLib, add 4 new gobyes, remove 2. Tried GoReportCard and play around with goplay to get shareable URL's  for the go playground.  
 https://twitter.com/DetlefBurkhardt/status/957824970192760832
