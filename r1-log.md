@@ -23,5 +23,5 @@ Day 5 was a more »laborized«-day. It was about walking and failing, content pr
 https://twitter.com/DetlefBurkhardt/status/957192967156051968
 
 ### R1D6
-Done Clustering of the StdLib, add 4 new gobyes, remove 2. Tried GoReportCard and play around with goplay to get shareable URL's  for the go playground.  
+Done Clustering of the StdLib, add 4 new gobyes, remove 2. Tried GoReportCard and play around with goplay CLI to get shareable URL's for the go playground.  
 https://twitter.com/DetlefBurkhardt/status/957824970192760832
