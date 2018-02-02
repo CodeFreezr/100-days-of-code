@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+I use the [r1-log](r1-log.md) format instead.
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
