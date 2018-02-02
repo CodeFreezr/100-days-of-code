@@ -29,3 +29,7 @@ https://twitter.com/DetlefBurkhardt/status/957824970192760832
 ### R1D7
 After repairing the winter-crash of the windows insider upate, now Build 17074, I was able to re-install about the half of my non-microsoft tools. *grr*. But anyway, I could add some really awesome gobyes.
 https://twitter.com/DetlefBurkhardt/status/958496414975348736
+
+### R1D8
+My first week was shaped by building the foundation. Beside digging into sort and and flag go package, I added 23 gobyes repositories and created an additional goby-incubator projects for repos which I want to check before adding to the main. THe most exciting discovery today was the world of badges. After GoReportCard I found the overwhelming shields.io solution.
+https://twitter.com/DetlefBurkhardt/status/959015208139272192
