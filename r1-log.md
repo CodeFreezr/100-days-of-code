@@ -33,3 +33,7 @@ https://twitter.com/DetlefBurkhardt/status/958496414975348736
 ### R1D8
 My first week was shaped by building the foundation. Beside digging into sort and and flag go package, I added 23 gobyes repositories and created an additional goby-incubator projects for repos which I want to check before adding to the main. The most exciting discovery today was the world of github badges. After GoReportCard I found the overwhelming shields.io solution.
 https://twitter.com/DetlefBurkhardt/status/959015208139272192
+
+### R1D8
+Slowly swinging into the finishing straight. Main decision for today was to cut out three repos to the incubater and add another six news, mainly from paperback books. Add a smart mini-navbar so you can step from gobye to gobye. Next, greater challenge is to build a central, streamlined navigation structure. This sounds like a bit more direct go coding, finally.  
+https://twitter.com/DetlefBurkhardt/status/959991330985439232
