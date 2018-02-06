@@ -42,3 +42,11 @@ https://twitter.com/DetlefBurkhardt/status/959991330985439232
 Refactor the folder structure, prepare tagging all the go-files and incroporate some sloc/cloc/ncss calculations.
 https://twitter.com/DetlefBurkhardt/status/960258486293712897
 
+### R1D11
+Struggling with non-forking os-processes in go ...
+https://twitter.com/DetlefBurkhardt/status/960311008878317568
+
+### R1D12
+Solve some gobye challenges with groovy...
+https://twitter.com/DetlefBurkhardt/status/960667400977907712
+
