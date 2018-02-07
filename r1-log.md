@@ -50,3 +50,8 @@ https://twitter.com/DetlefBurkhardt/status/960311008878317568
 Solve some gobye challenges with groovy...  
 https://twitter.com/DetlefBurkhardt/status/960667400977907712
 
+### R1D13/14
+Just ill. Added some gobyes from Packt. Sorted some to the incubator, and try to get on track again.
+https://twitter.com/DetlefBurkhardt/status/961214901619392512
+
+
