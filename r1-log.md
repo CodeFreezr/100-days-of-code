@@ -54,4 +54,11 @@ https://twitter.com/DetlefBurkhardt/status/960667400977907712
 Just ill. Added some gobyes from Packt. Sorted some to the incubator, and try to get on track again.  
 https://twitter.com/DetlefBurkhardt/status/961214901619392512
 
+### R1D15/16
+Still ill. From bed I can just read alot. I investigate a bit in the github pages stuff. You get an absolut free hosting service with just an "git push" publishing process to an [user].github.io/project URL. That's awesome. Drawback: Autopublishing schedulde around every 5 minutes only, and max size is 1GB. So I decide to use gobeys/docs options to split the #golang code corpus from github publishing, not to run in troubles. 
+
+
+### R1D17
+
+
 
