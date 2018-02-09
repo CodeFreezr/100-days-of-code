@@ -56,9 +56,13 @@ https://twitter.com/DetlefBurkhardt/status/961214901619392512
 
 ### R1D15/16
 Still ill. From bed I can just read alot. I investigate a bit in the github pages stuff. You get an absolut free hosting service with just an "git push" publishing process to an [user].github.io/project URL. That's awesome. Drawback: Autopublishing schedulde around every 5 minutes only, and max size is 1GB. So I decide to use gobeys/docs options to split the #golang code corpus from github publishing, not to run in troubles. 
+https://twitter.com/DetlefBurkhardt/status/961960643883610112
 
 
 ### R1D17
+Siteproject twitteremoji.  
+First two gobeys are generic playable  
+Templates for the boost part of gobye corpus.  
 
 
 
