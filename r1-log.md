@@ -60,9 +60,11 @@ https://twitter.com/DetlefBurkhardt/status/961960643883610112
 
 
 ### R1D17
-Siteproject twitteremoji.  
-First two gobeys are generic playable  
-Templates for the boost part of gobye corpus.  
+A short sidekick: catching some of the twitter #hashflags see: link.
+A first PoC of our #gobye reading environment is ready see: link.
+Now we have link to automate the rest of the corpus 
+
+
 
 
 
