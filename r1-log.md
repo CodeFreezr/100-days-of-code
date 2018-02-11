@@ -64,6 +64,10 @@ A short sidekick: catching some of the twitter #hashflags see: link.
 A first PoC of our #gobye reading environment is ready see: link.
 Now we have link to automate the rest of the corpus 
 
+### R1D18:
+Today I start to activate RosettaCode as a another gobye repository. This is a bit tricky because the export is an odd mix of xml and wiki markup. Another challenge are the wide spreaded, different using of the capitilisation rules and the use of special signs in the url.
+
+
 
 
 
