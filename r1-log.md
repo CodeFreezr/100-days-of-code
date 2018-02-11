@@ -69,6 +69,11 @@ https://twitter.com/DetlefBurkhardt/status/962134060389883905
 Today I start to activate RosettaCode as a another gobye repository. This is a bit tricky because the export is an odd mix of xml and wiki markup. Another challenge are the wide spreaded, different using of the capitilisation rules and the use of special signs in the url.  
 https://twitter.com/DetlefBurkhardt/status/962616453311672321
 
+### R1D19:
+That RosettaCode Trip will take a bit longer, because I'dont want not only add a new gobey-repository. I'm very interested also to add code for some tasks in go, groovy and perhaps typescript / javascript. Based on the Idea of DrThomasMüller I collect all RosettaCode Task in Java, which are no grooynized.  
+For this I have prepared a lot of #groovy-code to extract and streamline a lot of very clever go algorithm today. Enhance my gobye UX POC and decide to investigate a bit more in a vanila js tree navigation. My learnings for today was reading / writing csv, creating a very generic vanila http getter and create an all purpose search and replace util.
+
+
 
 
 
