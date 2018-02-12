@@ -71,8 +71,13 @@ https://twitter.com/DetlefBurkhardt/status/962616453311672321
 
 ### R1D19:
 That RosettaCode Trip will take a bit longer, because I'dont want not only add a new gobey-repository. I'm very interested also to add code for some tasks in go, groovy and perhaps typescript / javascript. Based on the Idea of DrThomasMüller I collect all RosettaCode Task in Java, which are no grooynized.  
-For this I have prepared a lot of #groovy-code to extract and streamline a lot of very clever go algorithm today. Enhance my gobye UX POC and decide to investigate a bit more in a vanila js tree navigation. My learnings for today was reading / writing csv, creating a very generic vanila http getter and create an all purpose search and replace util.
+For this I have prepared a lot of #groovy-code to extract and streamline a lot of very clever go algorithm today. Enhance my gobye UX POC and decide to investigate a bit more in a vanila js tree navigation. My learnings for today was reading / writing csv, creating a very generic vanila http getter and create an all purpose search and replace util.  
 
+
+### R1D20:
+RosettaCode is not that easy. Just the numbers are more then impressive: 870 Programming Tasks, 206 in Draft. 681 Programming Languages, around 100 Categories and Sub-Categories with multiple parents assignment and everything without mindmap or dot-graph makes it really challenging to get an access to it. 
+Another aspect are the data quality in the snippets and the category structure. From Typo's multiple root-trees with different semantics to classical SCA/Linting weakenings. With the help from golint, go vet, gofmt I could fix around 300 Issues, but there is no upstream interface. All the solutions I found was downstream and this for what ever reason not complete. 
+So, Rosetta is a very high obstacle to climb. But even it costs some days, I hope I will have the power to crack the nut. Lets see.
 
 
 
