@@ -81,6 +81,8 @@ Another aspect are the data quality in the snippets and the category structure. 
 So, Rosetta is a very high obstacle to climb. But even it costs some days, I hope I will have the power to crack the nut. Lets see.  
 https://twitter.com/DetlefBurkhardt/status/963187321574223873
 
+### R1D21:
+Today Lesson was handling Environment-Variables (get/set) in golang and groovy System-, Go-Process or JVM-wide. The main obstacles to create a multiplatform solution for windows and unix-based systems are different storage stragies files / registry.
 
 
 
