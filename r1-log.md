@@ -84,6 +84,11 @@ https://twitter.com/DetlefBurkhardt/status/963187321574223873
 ### R1D21:
 Today Lesson was handling Environment-Variables (get/set) in golang and groovy System-, Go-Process or JVM-wide. The main obstacles to create a multiplatform solution for windows and unix-based systems are different storage stragies files / registry.
 
+### R1D22:
+Finishing my investigation on handling environment variable and starting a multipurpose proxy switch for java/groovy, go, git, vscode etc. This could be helpfull if you work at day in a office behind a firewall and after-hour all this setting doesnt work anymore.
+
+
+
 
 
 
