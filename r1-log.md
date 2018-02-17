@@ -76,21 +76,24 @@ https://twitter.com/DetlefBurkhardt/status/962843123679465472
 
 
 ### R1D20:
+![]( =300px)  
 RosettaCode is not that easy. Just the numbers are more then impressive: 870 Programming Tasks, 206 in Draft. 681 Programming Languages, around 100 Categories and Sub-Categories with multiple parents assignment and everything without mindmap or dot-graph makes it really challenging to get an access to it. 
 Another aspect are the data quality in the snippets and the category structure. From Typo's multiple root-trees with different semantics to classical SCA/Linting weakenings. With the help from golint, go vet, gofmt I could fix around 300 Issues, but there is no upstream interface. All the solutions I found was downstream and this for what ever reason not complete. 
 So, Rosetta is a very high obstacle to climb. But even it costs some days, I hope I will have the power to crack the nut. Lets see.  
 https://twitter.com/DetlefBurkhardt/status/963187321574223873
 
 ### R1D21:
+![]( =300px)  
 Today Lesson was handling Environment-Variables (get/set) in golang and groovy System-, Go-Process or JVM-wide. The main obstacles to create a multiplatform solution for windows and unix-based systems are different storage stragies files / registry.  
-
+https://twitter.com/DetlefBurkhardt/status/963703619265712128
 
 ### R1D22:
+![]( =300px)  
 Finishing my investigation on handling environment variable and starting a multipurpose proxy switch for java/groovy, go, git, vscode etc. This could be helpfull if you work at day in a office behind a firewall and after-hour all this setting doesnt work anymore.  
 https://twitter.com/DetlefBurkhardt/status/963939275778809857
 
 ### R1D23:
-![]()  
+![]( =300px)  
 Back-on-Track on analysing RosettaCode for incorporate this bigger repo into the gobye corpus. For this I surf through the most categories and collect them in a sheet: [rosettacode-by-nmbrs](https://codefreezr.github.io/rosettacode-by-nmbrs/) for preparing a grapviz or similiar visual representations.  
 https://twitter.com/DetlefBurkhardt/status/964298528515346432
 
