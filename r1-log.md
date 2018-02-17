@@ -87,11 +87,11 @@ Today Lesson was handling Environment-Variables (get/set) in golang and groovy S
 
 ### R1D22:
 Finishing my investigation on handling environment variable and starting a multipurpose proxy switch for java/groovy, go, git, vscode etc. This could be helpfull if you work at day in a office behind a firewall and after-hour all this setting doesnt work anymore.  
-
+https://twitter.com/DetlefBurkhardt/status/963939275778809857
 
 ### R1D23:
 Back-on-Track on analysing RosettaCode for incorporate this bigger repo into the gobye corpus. For this I surf through the most categories and collect them in a sheet: [rosettacode-by-nmbrs](https://codefreezr.github.io/rosettacode-by-nmbrs/) for preparing a grapviz or similiar visual representations.  
-
+https://twitter.com/DetlefBurkhardt/status/964298528515346432
 
 ### R1D24:
 Describing the Coding in CSS / SVG reading CSV writing dot-files will following here tomorrow. ...  
