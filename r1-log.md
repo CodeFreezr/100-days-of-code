@@ -102,7 +102,11 @@ I've assembled a GraphViz out of Google-Doc Spreadsheet the easy way. With this 
 https://twitter.com/DetlefBurkhardt/status/964656045011415040
 
 ### R1D25:
-Today I started a a wider sidekick into VueJS / Bootstrap because there was a great offer about a facelift of a very prominent homepage from 1984 > 2018... Huhuuu...  
+Today I started a a wider sidekick into VueJS / Bootstrap because there was a interesting offer about a facelift of a homepage from in a timetunnel from 1984 > 2018... Huhuuu...  
+
+### R1D26
+https://jsfiddle.net/Lq9qnzmg/18/
+
 
 
 
