@@ -98,8 +98,13 @@ Back-on-Track on analysing RosettaCode for incorporate this bigger repo into the
 https://twitter.com/DetlefBurkhardt/status/964298528515346432
 
 ### R1D24:
-Describing the Coding in CSS / SVG reading CSV writing dot-files will following here tomorrow. ...  
+I've assembled a GraphViz out of Google-Doc Spreadsheet the easy way. With this analysis I'm able to set up to layout a hierarchical composition out of the net of RosettaCode Categories. To structure the examples a bit better for our gobye corpus.  
 https://twitter.com/DetlefBurkhardt/status/964656045011415040
+
+### R1D25:
+Today I started a a wider sidekick into VueJS / Bootstrap because there was a great offer about a facelift of a very prominent homepage from 1984 > 2018... Huhuuu...  
+
+
 
 
 
