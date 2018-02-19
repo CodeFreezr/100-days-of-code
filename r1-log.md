@@ -111,10 +111,10 @@ https://jsfiddle.net/Lq9qnzmg/18/
 2) Simple Vue-CSS-Class Wizardry:  
 https://jsfiddle.net/CodeFreezr/me1fjau3/10/
 
-3) 
+3) v- directices (if, then, else, show)  
 https://jsfiddle.net/CodeFreezr/hc950mLj/2/
 
-4) Filter pipelines
+4) Filter pipelines  
 https://jsfiddle.net/CodeFreezr/e5kknuoL/13/
 
 
