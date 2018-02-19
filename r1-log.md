@@ -109,7 +109,7 @@ Today I started a a wider sidekick into VueJS / Bootstrap because there was a in
 2) [Simple Vue-CSS-Class Wizardry](https://jsfiddle.net/CodeFreezr/me1fjau3/10/)
 3) [v- directices like if, then, else, show](https://jsfiddle.net/CodeFreezr/hc950mLj/2/)
 4) [Filter pipelines](https://jsfiddle.net/CodeFreezr/e5kknuoL/13/)
-5) [Component - Very Basics](https://jsfiddle.net/CodeFreezr/kgfyqxrf/19/
+5) [Component - Very Basics](https://jsfiddle.net/CodeFreezr/kgfyqxrf/19/)
 
 
 
