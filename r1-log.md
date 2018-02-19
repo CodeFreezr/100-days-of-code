@@ -105,12 +105,17 @@ https://twitter.com/DetlefBurkhardt/status/964656045011415040
 Today I started a a wider sidekick into VueJS / Bootstrap because there was a interesting offer about a facelift of a homepage from in a timetunnel from 1984 > 2018... Huhuuu...  
 
 ### R1D26
-1) Hello World with a vue:
+1) Hello World with a vue:  
 https://jsfiddle.net/Lq9qnzmg/18/
 
-2) Simple Vue-CSS-Class Wizardry:
+2) Simple Vue-CSS-Class Wizardry:  
 https://jsfiddle.net/CodeFreezr/me1fjau3/10/
 
+3) 
+https://jsfiddle.net/CodeFreezr/hc950mLj/2/
+
+4) Filter pipelines
+https://jsfiddle.net/CodeFreezr/e5kknuoL/13/
 
 
 
