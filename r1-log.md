@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [January 23, Tuesday, 2018].
 
 ## Log
 
-[D20](#R1D20)
+[D20](#r1d20)
 
 ### R1D1 
 My first day was an excurse in understanding the twitter retweet bot from 100DaysOfCode. 
