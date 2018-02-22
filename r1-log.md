@@ -123,6 +123,16 @@ Jumping into the world of SSG via netlify. After testing a lot solutions hugo se
 https://twitter.com/DetlefBurkhardt/status/966007155060101121  
 
 
+### R1D28
+Second Day of Hugo: Fun Pur.  
+https://twitter.com/DetlefBurkhardt/status/966384242837131269
+
+### R1D20 
+Learned about Twitter Cards, update gobyes repo  
+https://twitter.com/DetlefBurkhardt/status/966788811744309248
+
+
+
 
 
 
