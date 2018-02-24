@@ -2,6 +2,42 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 23, Tuesday, 2018].
 
+
+Table of Contents
+=================
+
+[R1D1](#r1d1)
+, [R1D2](#r1d2)
+, [R1D3](#r1d3)
+, [R1D4](#r1d4)
+, [R1D5](#r1d5)
+, [R1D6](#r1d6)
+, [R1D7](#r1d7)
+, [R1D8](#r1d8)
+, [R1D9](#r1d9)
+, [R1D10](#r1d10)
+, [R1D11](#r1d11)
+, [R1D12](#r1d12)
+, [R1D13/14](#r1d1314)
+, [R1D15/16](#r1d1516)
+, [R1D17](#r1d17)
+, [R1D18:](#r1d18)
+, [R1D19:](#r1d19)
+, [R1D20:](#r1d20)
+, [R1D21:](#r1d21)
+, [R1D22:](#r1d22)
+, [R1D23:](#r1d23)
+, [R1D24:](#r1d24)
+, [R1D25:](#r1d25)
+, [R1D26](#r1d26)
+, [R1D27](#r1d27)
+, [R1D28](#r1d28)
+, [R1D29](#r1d29)
+, [R1D30](#r1d30)
+
+
+---
+
 ## Log
 
 [D20](#r1d20)
@@ -133,7 +169,9 @@ Learned about Twitter Cards, update gobyes repo
 https://twitter.com/DetlefBurkhardt/status/966788811744309248
 
 
+### R1D30 
+From rosettacode.org via github.com/rosettacodedata to codefreezr/rosettacode-to-go to the gobyes corpus.   
 
-
+https://twitter.com/DetlefBurkhardt/status/967331064552345600
 
 
