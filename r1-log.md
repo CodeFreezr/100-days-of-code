@@ -40,7 +40,7 @@ Table of Contents
 
 ## Log
 
-[D20](#r1d20)
+
 
 ### R1D1 
 My first day was an excurse in understanding the twitter retweet bot from 100DaysOfCode. 
