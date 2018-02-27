@@ -171,7 +171,14 @@ https://twitter.com/DetlefBurkhardt/status/966788811744309248
 
 ### R1D30 
 From rosettacode.org via github.com/rosettacodedata to codefreezr/rosettacode-to-go to the gobyes corpus.   
-
 https://twitter.com/DetlefBurkhardt/status/967331064552345600
 
 
+### R1D31
+Today I have setup an awesome-graphviz list and curated around 400 Entries. Tough...
+https://twitter.com/DetlefBurkhardt/status/967909244044562432
+
+
+### R1D32
+Today I published this list, becaus it's not perfect, but ok for a first public viewing.
+https://twitter.com/DetlefBurkhardt/status/968280561096757248
