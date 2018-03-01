@@ -182,3 +182,15 @@ https://twitter.com/DetlefBurkhardt/status/967909244044562432
 ### R1D32
 Today I published this list, becaus it's not perfect, but ok for a first public viewing.
 https://twitter.com/DetlefBurkhardt/status/968280561096757248
+
+### R1D33:
+As of today is now Tuesday a Vuesday. At least on this one day I wanna focus on vueJS to become comfortable with this stuff. The community is awesome, and it's not so "cutting changes" every nth release, like on angular.
+https://twitter.com/DetlefBurkhardt/status/968597835577987073
+
+### R1D34:
+Not really happy about Groovy today, because handling gzip url-request content would through me back into alot of native java boilerplate, I want never see again. So I'm happy to be able to handle this stuff with golang. Hey, I even never feel it, that the REST Transmistion was gzip encapsulated. Bravo!
+https://twitter.com/DetlefBurkhardt/status/969009969998778368
+
+### R1D35:
+Today I've learned alot about the wonderfull Stackexchange API to get stuff from Stackoverflow. An ideal example of an API documentation, greate Learning ressource. As a first apprentice piece I've analysed a couple of tag communities how active they are, and what the level of quality you can expect. Published a draft here: http://bit.ly/api-stackx
+https://twitter.com/DetlefBurkhardt/status/969355131048382474
