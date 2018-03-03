@@ -196,5 +196,6 @@ Today I've learned alot about the wonderfull Stackexchange API to get stuff from
 https://twitter.com/DetlefBurkhardt/status/969355131048382474
 
 ### R1D36: 
-New flex layout (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-font-awesome (cheat-sheet) 
+New flex layout (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
+font-awesome (cheat-sheet)   
+axios for vueJS (list of tutorials)  
