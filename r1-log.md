@@ -194,3 +194,7 @@ https://twitter.com/DetlefBurkhardt/status/969009969998778368
 ### R1D35:
 Today I've learned alot about the wonderfull Stackexchange API to get stuff from Stackoverflow. An ideal example of an API documentation, greate Learning ressource. As a first apprentice piece I've analysed a couple of tag communities how active they are, and what the level of quality you can expect. Published a draft here: http://bit.ly/api-stackx
 https://twitter.com/DetlefBurkhardt/status/969355131048382474
+
+### R1D36: 
+New flex layout (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+font-awesome (cheat-sheet) 
