@@ -199,3 +199,11 @@ https://twitter.com/DetlefBurkhardt/status/969355131048382474
 New flex layout (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
 font-awesome (cheat-sheet)   
 axios for vueJS (list of tutorials)  
+
+### R1D37: 
+Day of Fixing stuff. Damny min-height nearly damaged my smart nested flexbox layout. Another Thing: I started a Hugo Theme. Worktitle: "Lucent-Condensed". And I buy my first Udemy Course from Maximilian.
+https://twitter.com/DetlefBurkhardt/status/970395485239480322
+
+### R1D38: 
+Incubator cleanup, Nathany und Astaxie update.
+
