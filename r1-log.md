@@ -170,39 +170,40 @@ https://twitter.com/DetlefBurkhardt/status/966788811744309248
 
 
 ### R1D30 
-From rosettacode.org via github.com/rosettacodedata to codefreezr/rosettacode-to-go to the gobyes corpus.   
-https://twitter.com/DetlefBurkhardt/status/967331064552345600
+From rosettacode.org via github.com/rosettacodedata to codefreezr/rosettacode-to-go to the gobyes corpus.    
+[tweet-r1d30](https://twitter.com/DetlefBurkhardt/status/967331064552345600)
 
 
 ### R1D31
-Today I have setup an awesome-graphviz list and curated around 400 Entries. Tough...
-https://twitter.com/DetlefBurkhardt/status/967909244044562432
+Today I have setup an awesome-graphviz list and curated around 400 Entries. Tough...  
+[tweet-r1d31](https://twitter.com/DetlefBurkhardt/status/967909244044562432)
 
 
 ### R1D32
-Today I published this list, becaus it's not perfect, but ok for a first public viewing.
-https://twitter.com/DetlefBurkhardt/status/968280561096757248
+Today I published this list, becaus it's not perfect, but ok for a first public viewing.  
+[tweet-r1d32](https://twitter.com/DetlefBurkhardt/status/968280561096757248)
 
 ### R1D33:
-As of today is now Tuesday a Vuesday. At least on this one day I wanna focus on vueJS to become comfortable with this stuff. The community is awesome, and it's not so "cutting changes" every nth release, like on angular.
-https://twitter.com/DetlefBurkhardt/status/968597835577987073
+As of today is now Tuesday a Vuesday. At least on this one day I wanna focus on vueJS to become comfortable with this stuff. The community is awesome, and it's not so "cutting changes" every nth release, like on angular.  
+[tweet-r1d33](https://twitter.com/DetlefBurkhardt/status/968597835577987073)
 
 ### R1D34:
-Not really happy about Groovy today, because handling gzip url-request content would through me back into alot of native java boilerplate, I want never see again. So I'm happy to be able to handle this stuff with golang. Hey, I even never feel it, that the REST Transmistion was gzip encapsulated. Bravo!
-https://twitter.com/DetlefBurkhardt/status/969009969998778368
+Not really happy about Groovy today, because handling gzip url-request content would through me back into alot of native java boilerplate, I want never see again. So I'm happy to be able to handle this stuff with golang. Hey, I even never feel it, that the REST Transmistion was gzip encapsulated. Bravo!  
+[tweet-r1d34](https://twitter.com/DetlefBurkhardt/status/969009969998778368)
 
 ### R1D35:
-Today I've learned alot about the wonderfull Stackexchange API to get stuff from Stackoverflow. An ideal example of an API documentation, greate Learning ressource. As a first apprentice piece I've analysed a couple of tag communities how active they are, and what the level of quality you can expect. Published a draft here: http://bit.ly/api-stackx
-https://twitter.com/DetlefBurkhardt/status/969355131048382474
+Today I've learned alot about the wonderfull Stackexchange API to get stuff from Stackoverflow. An ideal example of an API documentation, greate Learning ressource. As a first apprentice piece I've analysed a couple of tag communities how active they are, and what the level of quality you can expect. Published a draft here: http://bit.ly/api-stackx  
+[tweet-r1d35](https://twitter.com/DetlefBurkhardt/status/969355131048382474)
 
 ### R1D36: 
 New flex layout (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
 font-awesome (cheat-sheet)   
-axios for vueJS (list of tutorials)  
+axios for vueJS (list of tutorials)   
+[tweet-r1d36](https://twitter.com/DetlefBurkhardt/status/969943501742931968)
 
 ### R1D37: 
-Day of Fixing stuff. Damny min-height nearly damaged my smart nested flexbox layout. Another Thing: I started a Hugo Theme. Worktitle: "Lucent-Condensed". And I buy my first Udemy Course from Maximilian.
-https://twitter.com/DetlefBurkhardt/status/970395485239480322
+Day of Fixing stuff. Damny min-height nearly damaged my smart nested flexbox layout. Another Thing: I started a Hugo Theme. Worktitle: "Lucent-Condensed". And I buy my first Udemy Course from Maximilian.  
+[tweet-r1d37](https://twitter.com/DetlefBurkhardt/status/970395485239480322)
 
 
 ### R1D38: 
@@ -220,6 +221,6 @@ Markdown, HTML, Hugo SSG
 
 ### R1D40: 
 awesome graphviz cleanup in the webeditor-secion, Check pos-attrobute for nodes, and findout, that you put arrowheads on an edge like pearls on a row.  
-[[tweet-r1d40](https://twitter.com/DetlefBurkhardt/status/971903115489398784)
+[tweet-r1d40](https://twitter.com/DetlefBurkhardt/status/971903115489398784)
 
 
