@@ -204,6 +204,22 @@ axios for vueJS (list of tutorials)
 Day of Fixing stuff. Damny min-height nearly damaged my smart nested flexbox layout. Another Thing: I started a Hugo Theme. Worktitle: "Lucent-Condensed". And I buy my first Udemy Course from Maximilian.
 https://twitter.com/DetlefBurkhardt/status/970395485239480322
 
+
 ### R1D38: 
-Incubator cleanup, Nathany und Astaxie update.
+Incubator cleanup, Nathany und Astaxie update.  
+[tweet-r1d38](https://twitter.com/DetlefBurkhardt/status/970630364346580997)
+
+### R1D39a: 
+Cleanup my codelabs.  
+[tweet-r1d38a](https://twitter.com/DetlefBurkhardt/status/970910655044898816)
+
+
+### R1D39b: 
+Markdown, HTML, Hugo SSG  
+[tweet-r1d39b](https://twitter.com/DetlefBurkhardt/status/971477129757151234)
+
+### R1D40: 
+awesome graphviz cleanup in the webeditor-secion, Check pos-attrobute for nodes, and findout, that you put arrowheads on an edge like pearls on a row.  
+[[tweet-r1d40](https://twitter.com/DetlefBurkhardt/status/971903115489398784)
+
 
