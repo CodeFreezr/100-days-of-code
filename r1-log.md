@@ -222,7 +222,13 @@ Markdown, HTML, Hugo SSG
 awesome graphviz cleanup in the webeditor-section, Check position-attribute for nodes. Found out, that you can multiple arrowheads on an edge like pearls on a row.  
 [tweet-r1d40](https://twitter.com/DetlefBurkhardt/status/971903115489398784)
 
-
 ### R1D41:
-Deeper and Deeper into Hugo  
-[tweet-r1d41]()
+Deeper and Deeper into Hugo SSG-Themes  
+[tweet-r1d41](https://twitter.com/DetlefBurkhardt/status/972255385930387456)  
+
+### R1D42:
+Scribble, Sketching, Mockup & building Prototype.   
+[tweet-r1d42](https://twitter.com/DetlefBurkhardt/status/972767432766054400)
+
+
+
