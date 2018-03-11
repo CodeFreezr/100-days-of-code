@@ -214,13 +214,15 @@ Incubator cleanup, Nathany und Astaxie update.
 Cleanup my codelabs.  
 [tweet-r1d38a](https://twitter.com/DetlefBurkhardt/status/970910655044898816)
 
-
 ### R1D39b: 
 Markdown, HTML, Hugo SSG  
 [tweet-r1d39b](https://twitter.com/DetlefBurkhardt/status/971477129757151234)
 
 ### R1D40: 
-awesome graphviz cleanup in the webeditor-secion, Check pos-attrobute for nodes, and findout, that you put arrowheads on an edge like pearls on a row.  
+awesome graphviz cleanup in the webeditor-section, Check position-attribute for nodes. Found out, that you can multiple arrowheads on an edge like pearls on a row.  
 [tweet-r1d40](https://twitter.com/DetlefBurkhardt/status/971903115489398784)
 
 
+### R1D41:
+Deeper and Deeper into Hugo  
+[tweet-r1d41]()
