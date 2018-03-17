@@ -230,5 +230,22 @@ Deeper and Deeper into Hugo SSG-Themes
 Scribble, Sketching, Mockup & building Prototype.   
 [tweet-r1d42](https://twitter.com/DetlefBurkhardt/status/972767432766054400)
 
+### R1D43:
+
+### R1D44:
+Hacking Hugo-Themes. Experimenting how to create awesome Theme-Documentation
+[tweet-R1D44](https://twitter.com/DetlefBurkhardt/status/973803609967251456)
+
+### R1D45:
+Experimenting alot with the jfrog cli
+[tweet-R1D45](https://twitter.com/DetlefBurkhardt/status/974423885260247041)
+
+### R1D46+47:
+
+
+
+
+
+
 
 
