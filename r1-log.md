@@ -6,11 +6,16 @@ The log of my #100DaysOfCode challenge. Started on [January 23, Tuesday, 2018].
 Table of Contents
 =================
 
-[Day-01](#Day-1),[Day-02](#Day-2),[Day-03](#Day-3),[Day-04](#Day-4),[Day-05](#Day-5),[Day-06](#Day-6),[Day-07](#Day-7),[Day-08](#Day-8),[Day-09](#Day-9),[Day-10](#Day-10),  
-[Day-11](#Day-11),[Day-12](#Day-12),[Day-13/14](#Day-1314),[Day-15/16](#Day-1516),[Day-17](#Day-17),[Day-18:](#Day-18),[Day-19:](#Day-19),[Day-20:](#Day-20),  
-[Day-21:](#Day-21),[Day-22:](#Day-22),[Day-23:](#Day-23),[Day-24:](#Day-24),[Day-25:](#Day-25),[Day-26](#Day-26),[Day-27](#Day-27),[Day-28](#Day-28),[Day-29](#Day-29),[Day-30](#Day-30),  
-[Day-31](#Day-31),[Day-32](#Day-32),[Day-33:](#Day-33),[Day-34:](#Day-34),[Day-35:](#Day-35),[Day-36:](#Day-36),[Day-37:](#Day-37),[Day-38:](#Day-38),[Day-39a:](#Day-39a),[Day-39b:](#Day-39b),[Day-40:](#Day-40),  
-[Day-41:](#Day-41),[Day-42:](#Day-42),[Day-43:](#Day-43),[Day-44:](#Day-44),[Day-45:](#Day-45),[Day-46\+47:](#Day-4647),[Day-48:](#Day-48),[Day-49:](#Day-49),[Day-50:](#Day-50)
+* 1-10   
+[Day1](#r1d1) [Day2](#r1d2) [Day3](#r1d3) [Day4](#r1d4) [Day5](#r1d5) [Day6](#r1d6) [Day7](#r1d7) [Day8](#r1d8) [Day9](#r1d9) [Day10](#r1d10)  
+* 11-20  
+[Day11](#r1d11) [Day12](#r1d12) [Day13/14](#r1d1314) [Day15/16](#r1d1516) [Day17](#r1d17) [Day18](#r1d18) [Day19](#r1d19) [Day20](#r1d20)
+* 21-30  
+[Day21](#r1d21) [Day22](#r1d22) [Day23](#r1d23) [Day24](#r1d24) [Day25](#r1d25) [Day26](#r1d26) [Day27](#r1d27) [Day28](#r1d28) [Day29](#r1d29) [Day30](#r1d30)
+* 31-40  
+[Day31](#r1d31) [Day32](#r1d32) [Day33](#r1d33) [Day34](#r1d34) [Day35](#r1d35) [Day36](#r1d36) [Day37](#r1d37) [Day38](#r1d38) [Day39a](#r1d39a) [Day39b](#r1d39b) [Day40](#r1d40)
+* 41-50    
+[Day41](#r1d41) [Day42](#r1d42) [Day43](#r1d43) [Day44](#r1d44) [Day45](#r1d45) [Day46\+47](#r1d4647) [Day48](#r1d48) [Day49](#r1d49) [Day50](#r1d50)
 
 
 ---
@@ -19,108 +24,108 @@ Table of Contents
 
 
 
-### Day-1 
+### R1D1 
 My first day was an excurse in understanding the twitter retweet bot from 100DaysOfCode. 
 
-### Day-2
+### R1D2
 Arrange & setup my 100 Days challenge. And by the way: Imho Coding means Reading. To write excellent code like poetry it is important to read the best code you can get in the area you want to grow.
 
-### Day-3
+### R1D3
 Today I decide how my 100 day curriculum should look-a-like.  
 https://twitter.com/DetlefBurkhardt/status/956133235083436033
 
-### Day-4
+### R1D4
 One of my main targets collecting a valuable and reliable golang code corpus. So I can create some SCA Tools, incorporate testing and a streamlined go playground integration.  
 https://twitter.com/DetlefBurkhardt/status/956660194943078401
 
-### Day-5
+### R1D5
 Day 5 was a more »laborized«-day. It was about walking and failing, content preparing, data cleansing, code experiments with travesing filesystems, thx to filepath.Walk(). Searching and alienating.  
 https://twitter.com/DetlefBurkhardt/status/957192967156051968
 
-### Day-6
+### R1D6
 Done Clustering of the StdLib, add 4 new gobyes, remove 2. Tried GoReportCard and play around with goplay CLI to get shareable URL's for the go playground.  
 https://twitter.com/DetlefBurkhardt/status/957824970192760832
 
-### Day-7
+### R1D7
 After repairing the winter-crash of the windows insider upate, now Build 17074, I was able to re-install about the half of my non-microsoft tools. *grr*. But anyway, I could add some really awesome gobyes.
 https://twitter.com/DetlefBurkhardt/status/958496414975348736
 
-### Day-8
+### R1D8
 My first week was shaped by building the foundation. Beside digging into sort and and flag go package, I added 23 gobyes repositories and created an additional goby-incubator projects for repos which I want to check before adding to the main. The most exciting discovery today was the world of github badges. After GoReportCard I found the overwhelming shields.io solution.
 https://twitter.com/DetlefBurkhardt/status/959015208139272192
 
-### Day-9
+### R1D9
 Slowly swinging into the finishing straight. Main decision for today was to cut out three repos into the incubator and add another six news, mainly from paperback books. Add a smart mini-navbar so you can step from gobye to gobye. Next, greater challenge is to build a central, streamlined navigation structure. This sounds like a bit more direct go coding, finally.  
 https://twitter.com/DetlefBurkhardt/status/959991330985439232
 
-### Day-10
+### R1D10
 Refactor the folder structure, prepare tagging all the go-files and incroporate some sloc/cloc/ncss calculations.
 https://twitter.com/DetlefBurkhardt/status/960258486293712897
 
-### Day-11
+### R1D11
 Struggling with non-forking os-processes in go ...  
 https://twitter.com/DetlefBurkhardt/status/960311008878317568
 
-### Day-12
+### R1D12
 Solve some gobye challenges with groovy...  
 https://twitter.com/DetlefBurkhardt/status/960667400977907712
 
-### Day-13/14
+### R1D13/14
 Just ill. Added some gobyes from Packt. Sorted some to the incubator, and try to get on track again.  
 https://twitter.com/DetlefBurkhardt/status/961214901619392512
 
-### Day-15/16
+### R1D15/16
 Still ill. From bed I can just read alot. I investigate a bit in the github pages stuff. You get an absolut free hosting service with just an "git push" publishing process to an [user].github.io/project URL. That's awesome. Drawback: Autopublishing schedulde around every 5 minutes only, and max size is 1GB. So I decide to use gobeys/docs options to split the #golang code corpus from github publishing, not to run in troubles.  
 https://twitter.com/DetlefBurkhardt/status/961960643883610112
 
 
-### Day-17
+### R1D17
 A short sidekick: catching some of the twitter #hashflags see: link.
 A first PoC of our #gobye reading environment is ready see: link.
 Now we have link to automate the rest of the corpus 
 https://twitter.com/DetlefBurkhardt/status/962134060389883905
 
-### Day-18:
+### R1D18:
 Today I start to activate RosettaCode as a another gobye repository. This is a bit tricky because the export is an odd mix of xml and wiki markup. Another challenge are the wide spreaded, different using of the capitilisation rules and the use of special signs in the url.  
 https://twitter.com/DetlefBurkhardt/status/962616453311672321
 
-### Day-19:
+### R1D19:
 That RosettaCode Trip will take a bit longer, because I'dont want not only add a new gobey-repository. I'm very interested also to add code for some tasks in go, groovy and perhaps typescript / javascript. Based on the Idea of DrThomasMüller I collect all RosettaCode Task in Java, which are no grooynized.  
 For this I have prepared a lot of #groovy-code to extract and streamline a lot of very clever go algorithm today. Enhance my gobye UX POC and decide to investigate a bit more in a vanila js tree navigation. My learnings for today was reading / writing csv, creating a very generic vanila http getter and create an all purpose search and replace util.  
 https://twitter.com/DetlefBurkhardt/status/962843123679465472
 
 
-### Day-20:
+### R1D20:
 ![]( =300px)  
 RosettaCode is not that easy. Just the numbers are more then impressive: 870 Programming Tasks, 206 in Draft. 681 Programming Languages, around 100 Categories and Sub-Categories with multiple parents assignment and everything without mindmap or dot-graph makes it really challenging to get an access to it. 
 Another aspect are the data quality in the snippets and the category structure. From Typo's multiple root-trees with different semantics to classical SCA/Linting weakenings. With the help from golint, go vet, gofmt I could fix around 300 Issues, but there is no upstream interface. All the solutions I found was downstream and this for what ever reason not complete. 
 So, Rosetta is a very high obstacle to climb. But even it costs some days, I hope I will have the power to crack the nut. Lets see.  
 https://twitter.com/DetlefBurkhardt/status/963187321574223873
 
-### Day-21:
+### R1D21:
 ![]( =300px)  
 Today Lesson was handling Environment-Variables (get/set) in golang and groovy System-, Go-Process or JVM-wide. The main obstacles to create a multiplatform solution for windows and unix-based systems are different storage stragies files / registry.  
 https://twitter.com/DetlefBurkhardt/status/963703619265712128
 
-### Day-22:
+### R1D22:
 ![]( =300px)  
 Finishing my investigation on handling environment variable and starting a multipurpose proxy switch for java/groovy, go, git, vscode etc. This could be helpfull if you work at day in a office behind a firewall and after-hour all this setting doesnt work anymore.  
 https://twitter.com/DetlefBurkhardt/status/963939275778809857
 
-### Day-23:
+### R1D23:
 ![]( =300px)  
 Back-on-Track on analysing RosettaCode for incorporate this bigger repo into the gobye corpus. For this I surf through the most categories and collect them in a sheet: [rosettacode-by-nmbrs](https://codefreezr.github.io/rosettacode-by-nmbrs/) for preparing a grapviz or similiar visual representations.  
 https://twitter.com/DetlefBurkhardt/status/964298528515346432
 
-### Day-24:
+### R1D24:
 I've assembled a GraphViz out of Google-Doc Spreadsheet the easy way. With this analysis I'm able to set up to layout a hierarchical composition out of the net of RosettaCode Categories. To structure the examples a bit better for our gobye corpus.  
 https://twitter.com/DetlefBurkhardt/status/964656045011415040
 
-### Day-25:
+### R1D25:
 Today I started a a wider sidekick into VueJS / Bootstrap because there was a interesting offer about a facelift of a homepage from in a timetunnel from 1984 > 2018... Huhuuu...  
 https://twitter.com/DetlefBurkhardt/status/965153188105113600
 
-### Day-26
+### R1D26
 1) [Hello World with a vue](https://jsfiddle.net/Lq9qnzmg/18/)
 2) [Simple Vue-CSS-Class Wizardry](https://jsfiddle.net/CodeFreezr/me1fjau3/10/)
 3) [v- directices like if, then, else, show](https://jsfiddle.net/CodeFreezr/hc950mLj/2/)
@@ -131,105 +136,105 @@ Great Finding: http://yuche.github.io/vue-strap/
 https://twitter.com/DetlefBurkhardt/status/965529167746994178  
 
 
-### Day-27
+### R1D27
 Jumping into the world of SSG via netlify. After testing a lot solutions hugo seems to be my fav.  
 https://twitter.com/DetlefBurkhardt/status/966007155060101121  
 
 
-### Day-28
+### R1D28
 Second Day of Hugo: Fun Pur.  
 https://twitter.com/DetlefBurkhardt/status/966384242837131269
 
 
-### Day-29 
+### R1D29 
 Learned about Twitter Cards, update gobyes repo  
 https://twitter.com/DetlefBurkhardt/status/966788811744309248
 
 
-### Day-30 
+### R1D30 
 From rosettacode.org via github.com/rosettacodedata to codefreezr/rosettacode-to-go to the gobyes corpus.    
-[tweet-Day-30](https://twitter.com/DetlefBurkhardt/status/967331064552345600)
+[tweet-r1d30](https://twitter.com/DetlefBurkhardt/status/967331064552345600)
 
 
-### Day-31
+### R1D31
 Today I have setup an awesome-graphviz list and curated around 400 Entries. Tough...  
-[tweet-Day-31](https://twitter.com/DetlefBurkhardt/status/967909244044562432)
+[tweet-r1d31](https://twitter.com/DetlefBurkhardt/status/967909244044562432)
 
 
-### Day-32
+### R1D32
 Today I published this list, becaus it's not perfect, but ok for a first public viewing.  
-[tweet-Day-32](https://twitter.com/DetlefBurkhardt/status/968280561096757248)
+[tweet-r1d32](https://twitter.com/DetlefBurkhardt/status/968280561096757248)
 
-### Day-33:
+### R1D33:
 As of today is now Tuesday a Vuesday. At least on this one day I wanna focus on vueJS to become comfortable with this stuff. The community is awesome, and it's not so "cutting changes" every nth release, like on angular.  
-[tweet-Day-33](https://twitter.com/DetlefBurkhardt/status/968597835577987073)
+[tweet-r1d33](https://twitter.com/DetlefBurkhardt/status/968597835577987073)
 
-### Day-34:
+### R1D34:
 Not really happy about Groovy today, because handling gzip url-request content would through me back into alot of native java boilerplate, I want never see again. So I'm happy to be able to handle this stuff with golang. Hey, I even never feel it, that the REST Transmistion was gzip encapsulated. Bravo!  
-[tweet-Day-34](https://twitter.com/DetlefBurkhardt/status/969009969998778368)
+[tweet-r1d34](https://twitter.com/DetlefBurkhardt/status/969009969998778368)
 
-### Day-35:
+### R1D35:
 Today I've learned alot about the wonderfull Stackexchange API to get stuff from Stackoverflow. An ideal example of an API documentation, greate Learning ressource. As a first apprentice piece I've analysed a couple of tag communities how active they are, and what the level of quality you can expect. Published a draft here: http://bit.ly/api-stackx  
-[tweet-Day-35](https://twitter.com/DetlefBurkhardt/status/969355131048382474)
+[tweet-r1d35](https://twitter.com/DetlefBurkhardt/status/969355131048382474)
 
-### Day-36: 
+### R1D36: 
 New flex layout (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
 font-awesome (cheat-sheet)   
 axios for vueJS (list of tutorials)   
-[tweet-Day-36](https://twitter.com/DetlefBurkhardt/status/969943501742931968)
+[tweet-r1d36](https://twitter.com/DetlefBurkhardt/status/969943501742931968)
 
-### Day-37: 
+### R1D37: 
 Day of Fixing stuff. Damny min-height nearly damaged my smart nested flexbox layout. Another Thing: I started a Hugo Theme. Worktitle: "Lucent-Condensed". And I buy my first Udemy Course from Maximilian.  
-[tweet-Day-37](https://twitter.com/DetlefBurkhardt/status/970395485239480322)
+[tweet-r1d37](https://twitter.com/DetlefBurkhardt/status/970395485239480322)
 
 
-### Day-38: 
+### R1D38: 
 Incubator cleanup, Nathany und Astaxie update.  
-[tweet-Day-38](https://twitter.com/DetlefBurkhardt/status/970630364346580997)
+[tweet-r1d38](https://twitter.com/DetlefBurkhardt/status/970630364346580997)
 
-### Day-39a: 
+### R1D39a: 
 Cleanup my codelabs.  
-[tweet-Day-38a](https://twitter.com/DetlefBurkhardt/status/970910655044898816)
+[tweet-r1d38a](https://twitter.com/DetlefBurkhardt/status/970910655044898816)
 
-### Day-39b: 
+### R1D39b: 
 Markdown, HTML, Hugo SSG  
-[tweet-Day-39b](https://twitter.com/DetlefBurkhardt/status/971477129757151234)
+[tweet-r1d39b](https://twitter.com/DetlefBurkhardt/status/971477129757151234)
 
-### Day-40: 
+### R1D40: 
 awesome graphviz cleanup in the webeditor-section, Check position-attribute for nodes. Found out, that you can multiple arrowheads on an edge like pearls on a row.  
-[tweet-Day-40](https://twitter.com/DetlefBurkhardt/status/971903115489398784)
+[tweet-r1d40](https://twitter.com/DetlefBurkhardt/status/971903115489398784)
 
-### Day-41:
+### R1D41:
 Deeper and Deeper into Hugo SSG-Themes  
-[tweet-Day-41](https://twitter.com/DetlefBurkhardt/status/972255385930387456)  
+[tweet-r1d41](https://twitter.com/DetlefBurkhardt/status/972255385930387456)  
 
-### Day-42:
+### R1D42:
 Scribble, Sketching, Mockup & building Prototype.   
-[tweet-Day-42](https://twitter.com/DetlefBurkhardt/status/972767432766054400)
+[tweet-r1d42](https://twitter.com/DetlefBurkhardt/status/972767432766054400)
 
-### Day-43:
+### R1D43:
 Digging into HugoSSG and start to check how to combine vuejs and hugo.  
-[tweet-Day-43](https://twitter.com/DetlefBurkhardt/status/973233596147355648)
+[tweet-r1d43](https://twitter.com/DetlefBurkhardt/status/973233596147355648)
 
-### Day-44:
+### R1D44:
 Hacking Hugo-Themes. Experimenting how to create awesome Theme-Documentation  
-[tweet-Day-44](https://twitter.com/DetlefBurkhardt/status/973803609967251456)
+[tweet-r1d44](https://twitter.com/DetlefBurkhardt/status/973803609967251456)
 
-### Day-45:
+### R1D45:
 Experimenting alot with the jfrog cli  
-[tweet-Day-45](https://twitter.com/DetlefBurkhardt/status/974423885260247041)
+[tweet-r1d45](https://twitter.com/DetlefBurkhardt/status/974423885260247041)
 
-### Day-46+47:
+### R1D46+47:
 Two things today & yesterday for my learning course. (a) Analysing more Hugo-Themes  
 []()
 
-### Day-48:
+### R1D48:
 tbd.  
 
-### Day-49:
+### R1D49:
 tbd.  
 
-### Day-50:
+### R1D50:
 tbd.  
 
 
