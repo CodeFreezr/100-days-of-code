@@ -231,16 +231,19 @@ Scribble, Sketching, Mockup & building Prototype.
 [tweet-r1d42](https://twitter.com/DetlefBurkhardt/status/972767432766054400)
 
 ### R1D43:
+Digging into HugoSSG and start to check how to combine vuejs and hugo.
+[tweet-r1d43](https://twitter.com/DetlefBurkhardt/status/973233596147355648)
 
 ### R1D44:
 Hacking Hugo-Themes. Experimenting how to create awesome Theme-Documentation
-[tweet-R1D44](https://twitter.com/DetlefBurkhardt/status/973803609967251456)
+[tweet-r1d44](https://twitter.com/DetlefBurkhardt/status/973803609967251456)
 
 ### R1D45:
 Experimenting alot with the jfrog cli
-[tweet-R1D45](https://twitter.com/DetlefBurkhardt/status/974423885260247041)
+[tweet-r1d45](https://twitter.com/DetlefBurkhardt/status/974423885260247041)
 
 ### R1D46+47:
+Two things today & yesterday for my learning course. (a) Analysing more Hugo-Themes
 
 
 
