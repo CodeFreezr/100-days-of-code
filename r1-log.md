@@ -226,11 +226,11 @@ Experimenting alot with the jfrog cli
 
 ### R1D46+47:
 Two things today & yesterday for my learning course. (a) Analysing more Hugo-Themes  
-[tweet-r1d46+47](https://twitter.com/DetlefBurkhardt/status/975128540499857409)
+[tweet-r1d46+47](https://twitter.com/DetlefBurkhardt/status/975128540499857409)  
 
 ### R1D48+49:
-Same stuff than the last three day.
-[tweet-r1d47+48](https://twitter.com/DetlefBurkhardt/status/975825883155050496)
+Same stuff than the last three day.  
+[tweet-r1d47+48](https://twitter.com/DetlefBurkhardt/status/975825883155050496)  
 
 
 ### R1D50:
