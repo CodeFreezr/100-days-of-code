@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - CodeFreezr
 
-The log of my #100DaysOfCode challenge. Started on [January 23, Tuesday, 2018].
+The log of my #100DaysOfCode challenge. Started on [January 23, Tuesday, 2018]
 
 
 Table of Contents
