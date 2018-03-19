@@ -229,7 +229,8 @@ Two things today & yesterday for my learning course. (a) Analysing more Hugo-The
 []()
 
 ### R1D48:
-tbd.  
+Same stuff than the last three day.
+[]()
 
 ### R1D49:
 tbd.  
