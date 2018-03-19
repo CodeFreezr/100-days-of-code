@@ -15,7 +15,7 @@ Table of Contents
 * 31-40  
 [Day31](#r1d31) [Day32](#r1d32) [Day33](#r1d33) [Day34](#r1d34) [Day35](#r1d35) [Day36](#r1d36) [Day37](#r1d37) [Day38](#r1d38) [Day39a](#r1d39a) [Day39b](#r1d39b) [Day40](#r1d40)
 * 41-50    
-[Day41](#r1d41) [Day42](#r1d42) [Day43](#r1d43) [Day44](#r1d44) [Day45](#r1d45) [Day46\+47](#r1d4647) [Day48](#r1d48) [Day49](#r1d49) [Day50](#r1d50)
+[Day41](#r1d41) [Day42](#r1d42) [Day43](#r1d43) [Day44](#r1d44) [Day45](#r1d45) [Day46\+47](#r1d4647) [Day48\+49](#r1d4849) [Day50](#r1d50)
 
 
 ---
@@ -226,14 +226,12 @@ Experimenting alot with the jfrog cli
 
 ### R1D46+47:
 Two things today & yesterday for my learning course. (a) Analysing more Hugo-Themes  
-[]()
+[tweet-r1d46+47](https://twitter.com/DetlefBurkhardt/status/975128540499857409)
 
-### R1D48:
+### R1D48+49:
 Same stuff than the last three day.
-[]()
+[tweet-r1d47+48](https://twitter.com/DetlefBurkhardt/status/975825883155050496)
 
-### R1D49:
-tbd.  
 
 ### R1D50:
 tbd.  
