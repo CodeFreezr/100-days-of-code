@@ -233,7 +233,7 @@ Same stuff than the last three day.
 [tweet-r1d47+48](https://twitter.com/DetlefBurkhardt/status/975825883155050496)  
 
 ### R1D50+51:
-Pause.
+Mittagspause.   
 [tweet-r1d50+51](https://twitter.com/DetlefBurkhardt/status/976771903607263232)
 
 ### R1D52:
