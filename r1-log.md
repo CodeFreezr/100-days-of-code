@@ -45,101 +45,107 @@ Today I decide how my 100 day curriculum should look-a-like.
 ### R1D4
 ![gobyes04.png](assets/gobyes/gobyes04.png)   
 One of my main targets collecting a valuable and reliable golang code corpus. So I can create some SCA Tools, incorporate testing and a streamlined go playground integration.  
-[tweet-r1d4](https://twitter.com/DetlefBurkhardt/status/956660194943078401
+[tweet-r1d4](https://twitter.com/DetlefBurkhardt/status/956660194943078401)
 
 ### R1D5
 ![gobyes05.png](assets/gobyes/gobyes05.png)   
 Day 5 was a more »laborized«-day. It was about walking and failing, content preparing, data cleansing, code experiments with travesing filesystems, thx to filepath.Walk(). Searching and alienating.  
-[tweet-r1d5](https://twitter.com/DetlefBurkhardt/status/957192967156051968
+[tweet-r1d5](https://twitter.com/DetlefBurkhardt/status/957192967156051968)
 
 ### R1D6
 ![gobyes06.png](assets/gobyes/gobyes06.png)   
 Done Clustering of the StdLib, add 4 new gobyes, remove 2. Tried GoReportCard and play around with goplay CLI to get shareable URL's for the go playground.  
-[tweet-r1d6](https://twitter.com/DetlefBurkhardt/status/957824970192760832
+[tweet-r1d6](https://twitter.com/DetlefBurkhardt/status/957824970192760832)
 
 ### R1D7
 ![gobyes07.png](assets/gobyes/gobyes07.png)   
 After repairing the winter-crash of the windows insider upate, now Build 17074, I was able to re-install about the half of my non-microsoft tools. *grr*. But anyway, I could add some really awesome gobyes.
-[tweet-r1d7](https://twitter.com/DetlefBurkhardt/status/958496414975348736
+[tweet-r1d7](https://twitter.com/DetlefBurkhardt/status/958496414975348736)
 
 ### R1D8
 ![gobyes08.png](assets/gobyes/gobyes08.png)   
 My first week was shaped by building the foundation. Beside digging into sort and and flag go package, I added 23 gobyes repositories and created an additional goby-incubator projects for repos which I want to check before adding to the main. The most exciting discovery today was the world of github badges. After GoReportCard I found the overwhelming shields.io solution.
-[tweet-r1d8](https://twitter.com/DetlefBurkhardt/status/959015208139272192
+[tweet-r1d8](https://twitter.com/DetlefBurkhardt/status/959015208139272192)
 
 ### R1D9
 ![gobyes09.png](assets/gobyes/gobyes09.png)   
 Slowly swinging into the finishing straight. Main decision for today was to cut out three repos into the incubator and add another six news, mainly from paperback books. Add a smart mini-navbar so you can step from gobye to gobye. Next, greater challenge is to build a central, streamlined navigation structure. This sounds like a bit more direct go coding, finally.  
-[tweet-r1d9](https://twitter.com/DetlefBurkhardt/status/959991330985439232
+[tweet-r1d9](https://twitter.com/DetlefBurkhardt/status/959991330985439232)
 
 ### R1D10
 ![gobyes10.png](assets/gobyes/gobyes10.png)   
 Refactor the folder structure, prepare tagging all the go-files and incroporate some sloc/cloc/ncss calculations.
-[tweet-r1d10](https://twitter.com/DetlefBurkhardt/status/960258486293712897
+[tweet-r1d10](https://twitter.com/DetlefBurkhardt/status/960258486293712897)
 
 ### R1D11
+![gobyes11.png](assets/gobyes/gobyes11.png)  
 Struggling with non-forking os-processes in go ...  
-[tweet-r1d11](https://twitter.com/DetlefBurkhardt/status/960311008878317568
+[tweet-r1d11](https://twitter.com/DetlefBurkhardt/status/960311008878317568)
 
 ### R1D12
+![gobyes12.png](assets/gobyes/gobyes12.png)  
 Solve some gobye challenges with groovy...  
-[tweet-r1d12](https://twitter.com/DetlefBurkhardt/status/960667400977907712
+[tweet-r1d12](https://twitter.com/DetlefBurkhardt/status/960667400977907712)
 
 ### R1D13/14
+![gopher-13-14-ill.png](assets/gobyes/gopher-13-14-ill.png)  
 Just ill. Added some gobyes from Packt. Sorted some to the incubator, and try to get on track again.  
-[tweet-r1d13+14](https://twitter.com/DetlefBurkhardt/status/961214901619392512
+[tweet-r1d13+14](https://twitter.com/DetlefBurkhardt/status/961214901619392512)
 
 ### R1D15/16
+![gobyes09.png](assets/gobyes/gobyes09.png)  
 Still ill. From bed I can just read alot. I investigate a bit in the github pages stuff. You get an absolut free hosting service with just an "git push" publishing process to an [user].github.io/project URL. That's awesome. Drawback: Autopublishing schedulde around every 5 minutes only, and max size is 1GB. So I decide to use gobeys/docs options to split the #golang code corpus from github publishing, not to run in troubles.  
-[tweet-r1d15+16](https://twitter.com/DetlefBurkhardt/status/961960643883610112
+[tweet-r1d15+16](https://twitter.com/DetlefBurkhardt/status/961960643883610112)
 
 
 ### R1D17
+![gobyes10.png](assets/gobyes/gobyes10.png)  
 A short sidekick: catching some of the twitter #hashflags see: link.
 A first PoC of our #gobye reading environment is ready see: link.
 Now we have link to automate the rest of the corpus 
-[tweet-r1d17](https://twitter.com/DetlefBurkhardt/status/962134060389883905
+[tweet-r1d17](https://twitter.com/DetlefBurkhardt/status/962134060389883905)
 
 ### R1D18:
+![gobeys-on-rosetta.jpg](assets/gobyes/gobeys-on-rosetta.jpg)  
 Today I start to activate RosettaCode as a another gobye repository. This is a bit tricky because the export is an odd mix of xml and wiki markup. Another challenge are the wide spreaded, different using of the capitilisation rules and the use of special signs in the url.  
-[tweet-r1d18](https://twitter.com/DetlefBurkhardt/status/962616453311672321
+[tweet-r1d18](https://twitter.com/DetlefBurkhardt/status/962616453311672321)
 
 ### R1D19:
 That RosettaCode Trip will take a bit longer, because I'dont want not only add a new gobey-repository. I'm very interested also to add code for some tasks in go, groovy and perhaps typescript / javascript. Based on the Idea of DrThomasMüller I collect all RosettaCode Task in Java, which are no grooynized.  
 For this I have prepared a lot of #groovy-code to extract and streamline a lot of very clever go algorithm today. Enhance my gobye UX POC and decide to investigate a bit more in a vanila js tree navigation. My learnings for today was reading / writing csv, creating a very generic vanila http getter and create an all purpose search and replace util.  
-[tweet-r1d19](https://twitter.com/DetlefBurkhardt/status/962843123679465472
+[tweet-r1d19](https://twitter.com/DetlefBurkhardt/status/962843123679465472)
 
 
 ### R1D20: 
 RosettaCode is not that easy. Just the numbers are more then impressive: 870 Programming Tasks, 206 in Draft. 681 Programming Languages, around 100 Categories and Sub-Categories with multiple parents assignment and everything without mindmap or dot-graph makes it really challenging to get an access to it. 
 Another aspect are the data quality in the snippets and the category structure. From Typo's multiple root-trees with different semantics to classical SCA/Linting weakenings. With the help from golint, go vet, gofmt I could fix around 300 Issues, but there is no upstream interface. All the solutions I found was downstream and this for what ever reason not complete. 
 So, Rosetta is a very high obstacle to climb. But even it costs some days, I hope I will have the power to crack the nut. Lets see.  
-https://twitter.com/DetlefBurkhardt/status/963187321574223873
+[tweet-r1d20](https://twitter.com/DetlefBurkhardt/status/963187321574223873)
 
 ### R1D21:
-![]( =300px)  
 Today Lesson was handling Environment-Variables (get/set) in golang and groovy System-, Go-Process or JVM-wide. The main obstacles to create a multiplatform solution for windows and unix-based systems are different storage stragies files / registry.  
-https://twitter.com/DetlefBurkhardt/status/963703619265712128
+[tweet-r1d21](https://twitter.com/DetlefBurkhardt/status/963703619265712128)
 
 ### R1D22:
-![]( =300px)  
+![gobyes22.png](assets/gobyes/gobyes22.png)  
 Finishing my investigation on handling environment variable and starting a multipurpose proxy switch for java/groovy, go, git, vscode etc. This could be helpfull if you work at day in a office behind a firewall and after-hour all this setting doesnt work anymore.  
-https://twitter.com/DetlefBurkhardt/status/963939275778809857
+[tweet-r1d22](https://twitter.com/DetlefBurkhardt/status/963939275778809857)
 
 ### R1D23:
-![]( =300px)  
 Back-on-Track on analysing RosettaCode for incorporate this bigger repo into the gobye corpus. For this I surf through the most categories and collect them in a sheet: [rosettacode-by-nmbrs](https://codefreezr.github.io/rosettacode-by-nmbrs/) for preparing a grapviz or similiar visual representations.  
-https://twitter.com/DetlefBurkhardt/status/964298528515346432
+[tweet-r1d23](https://twitter.com/DetlefBurkhardt/status/964298528515346432)
 
 ### R1D24:
-I've assembled a GraphViz out of Google-Doc Spreadsheet the easy way. With this analysis I'm able to set up to layout a hierarchical composition out of the net of RosettaCode Categories. To structure the examples a bit better for our gobye corpus.  
-https://twitter.com/DetlefBurkhardt/status/964656045011415040
+![gobyes24.png](assets/gobyes/gobyes24.png)  
+I've assembled a GraphViz out of Google-Doc Spreadsheet the easy way. With this analysis I'm able to set up to layout a hierarchical composition out of the net of RosettaCode Categories. To structure the examples a bit better for our gobye corpus. [tweet-r1d24](https://twitter.com/DetlefBurkhardt/status/964656045011415040)
 
 ### R1D25:
+![gobyes25.png](assets/gobyes/gobyes25.png)  
 Today I started a a wider sidekick into VueJS / Bootstrap because there was a interesting offer about a facelift of a homepage from in a timetunnel from 1984 > 2018... Huhuuu...  
-https://twitter.com/DetlefBurkhardt/status/965153188105113600
+[tweet-r1d25](https://twitter.com/DetlefBurkhardt/status/965153188105113600)
 
 ### R1D26
+![gobyes26.png](assets/gobyes/gobyes26.png)  
 1) [Hello World with a vue](https://jsfiddle.net/Lq9qnzmg/18/)
 2) [Simple Vue-CSS-Class Wizardry](https://jsfiddle.net/CodeFreezr/me1fjau3/10/)
 3) [v- directices like if, then, else, show](https://jsfiddle.net/CodeFreezr/hc950mLj/2/)
@@ -147,39 +153,44 @@ https://twitter.com/DetlefBurkhardt/status/965153188105113600
 5) [Component - Very Basics](https://jsfiddle.net/CodeFreezr/kgfyqxrf/19/)  
 After some very, very Basic I get wet and scaffold some examples with the vue-cli and webpack.  
 Great Finding: http://yuche.github.io/vue-strap/  
-https://twitter.com/DetlefBurkhardt/status/965529167746994178  
+[tweet-r1d26](https://twitter.com/DetlefBurkhardt/status/965529167746994178)  
 
 
 ### R1D27
 Jumping into the world of SSG via netlify. After testing a lot solutions hugo seems to be my fav.  
-https://twitter.com/DetlefBurkhardt/status/966007155060101121  
+[tweet-r1d27](https://twitter.com/DetlefBurkhardt/status/966007155060101121)  
 
 
 ### R1D28
+![gobyes28.png](assets/gobyes/gobyes28.png)  
 Second Day of Hugo: Fun Pur.  
-https://twitter.com/DetlefBurkhardt/status/966384242837131269
+[tweet-r1d28](https://twitter.com/DetlefBurkhardt/status/966384242837131269)
 
 
 ### R1D29 
 Learned about Twitter Cards, update gobyes repo  
-https://twitter.com/DetlefBurkhardt/status/966788811744309248
+[tweet-r1d29](https://twitter.com/DetlefBurkhardt/status/966788811744309248)
 
 
 ### R1D30 
+![gobyes30.png](assets/gobyes/gobyes30.png)  
 From rosettacode.org via github.com/rosettacodedata to codefreezr/rosettacode-to-go to the gobyes corpus.    
 [tweet-r1d30](https://twitter.com/DetlefBurkhardt/status/967331064552345600)
 
 
 ### R1D31
+![gobyes31.png](assets/gobyes/gobyes31.png)  
 Today I have setup an awesome-graphviz list and curated around 400 Entries. Tough...  
 [tweet-r1d31](https://twitter.com/DetlefBurkhardt/status/967909244044562432)
 
 
 ### R1D32
+![gobyes32.png](assets/gobyes/gobyes32.png)  
 Today I published this list, becaus it's not perfect, but ok for a first public viewing.  
 [tweet-r1d32](https://twitter.com/DetlefBurkhardt/status/968280561096757248)
 
 ### R1D33:
+![gobyes33a.png](assets/gobyes/gobyes33a.png)  
 As of today is now Tuesday a Vuesday. At least on this one day I wanna focus on vueJS to become comfortable with this stuff. The community is awesome, and it's not so "cutting changes" every nth release, like on angular.  
 [tweet-r1d33](https://twitter.com/DetlefBurkhardt/status/968597835577987073)
 
@@ -192,12 +203,14 @@ Today I've learned alot about the wonderfull Stackexchange API to get stuff from
 [tweet-r1d35](https://twitter.com/DetlefBurkhardt/status/969355131048382474)
 
 ### R1D36: 
+![gobyes36.png](assets/gobyes/gobyes36.png)  
 New flex layout (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
 font-awesome (cheat-sheet)   
 axios for vueJS (list of tutorials)   
 [tweet-r1d36](https://twitter.com/DetlefBurkhardt/status/969943501742931968)
 
-### R1D37: 
+### R1D37:
+![gobyes37.png](assets/gobyes/gobyes37.png)   
 Day of Fixing stuff. Damny min-height nearly damaged my smart nested flexbox layout. Another Thing: I started a Hugo Theme. Worktitle: "Lucent-Condensed". And I buy my first Udemy Course from Maximilian.  
 [tweet-r1d37](https://twitter.com/DetlefBurkhardt/status/970395485239480322)
 
@@ -219,6 +232,7 @@ awesome graphviz cleanup in the webeditor-section, Check position-attribute for 
 [tweet-r1d40](https://twitter.com/DetlefBurkhardt/status/971903115489398784)
 
 ### R1D41:
+![gobyes41.png](assets/gobyes/gobyes41.png)  
 Deeper and Deeper into Hugo SSG-Themes  
 [tweet-r1d41](https://twitter.com/DetlefBurkhardt/status/972255385930387456)  
 
@@ -227,6 +241,7 @@ Scribble, Sketching, Mockup & building Prototype.
 [tweet-r1d42](https://twitter.com/DetlefBurkhardt/status/972767432766054400)
 
 ### R1D43:
+![gobyes43.png](assets/gobyes/gobyes43.png)  
 Digging into HugoSSG and start to check how to combine vuejs and hugo.  
 [tweet-r1d43](https://twitter.com/DetlefBurkhardt/status/973233596147355648)
 
@@ -239,18 +254,22 @@ Experimenting alot with the jfrog cli
 [tweet-r1d45](https://twitter.com/DetlefBurkhardt/status/974423885260247041)
 
 ### R1D46+47:
+![gobyes46-47.png](assets/gobyes/gobyes46-47.png)  
 Two things today & yesterday for my learning course. (a) Analysing more Hugo-Themes  
 [tweet-r1d46+47](https://twitter.com/DetlefBurkhardt/status/975128540499857409)  
 
 ### R1D48+49:
+![gobyes48-49.png](assets/gobyes/gobyes48-49.png)  
 Same stuff than the last three day.  
 [tweet-r1d47+48](https://twitter.com/DetlefBurkhardt/status/975825883155050496)  
 
 ### R1D50+51:
+![gobyes50-51.png](assets/gobyes/gobeys50-51.png)  
 Mittagspause.   
 [tweet-r1d50+51](https://twitter.com/DetlefBurkhardt/status/976771903607263232)
 
 ### R1D52:
+![gobyes52.png](assets/gobyes/gobeys52.png)  
 Walker and Recursion in golang. Created a nice du in go, and a func on gist for a number format.
 [tweet-r1d52](https://twitter.com/DetlefBurkhardt/status/977136068360396800)
 
