@@ -14,10 +14,10 @@ Table of Contents
 [Day21](#r1d21) [Day22](#r1d22) [Day23](#r1d23) [Day24](#r1d24) [Day25](#r1d25) [Day26](#r1d26) [Day27](#r1d27) [Day28](#r1d28) [Day29](#r1d29) [Day30](#r1d30)
 * 31-40  
 [Day31](#r1d31) [Day32](#r1d32) [Day33](#r1d33) [Day34](#r1d34) [Day35](#r1d35) [Day36](#r1d36) [Day37](#r1d37) [Day38](#r1d38) [Day39a](#r1d39a) [Day39b](#r1d39b) [Day40](#r1d40)
-* 41-50    
-[Day41](#r1d41) [Day42](#r1d42) [Day43](#r1d43) [Day44](#r1d44) [Day45](#r1d45) [Day46\+47](#r1d4647) [Day48\+49](#r1d4849) [Day50](#r1d50)
-
-
+* 41-51    
+[Day41](#r1d41) [Day42](#r1d42) [Day43](#r1d43) [Day44](#r1d44) [Day45](#r1d45) [Day46\+47](#r1d4647) [Day48\+49](#r1d4849) [Day50\+51](#r1d5051)   
+* 52 ...   
+[Day52](#r1d52)
 ---
 
 ## Log
