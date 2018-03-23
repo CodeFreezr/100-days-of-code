@@ -1,5 +1,8 @@
 # #100DaysOfCode Log - Round 1 - CodeFreezr
 
+
+![100 Days Of Code](assets/The100-final.png)  
+
 The log of my #100DaysOfCode challenge. Started on [January 23, Tuesday, 2018]
 
 
@@ -9,15 +12,15 @@ Table of Contents
 * 1-10   
 [d01](#r1d1) [d02](#r1d2) [d03](#r1d3) [d04](#r1d4) [d05](#r1d5) [d06](#r1d6) [d07](#r1d7) [d08](#r1d8) [d09](#r1d9) [d10](#r1d10)  
 * 11-20  
-[Day11](#r1d11) [Day12](#r1d12) [Day13/14](#r1d1314) [Day15/16](#r1d1516) [Day17](#r1d17) [Day18](#r1d18) [Day19](#r1d19) [Day20](#r1d20)
+[d11](#r1d11) [d12](#r1d12) [d13/14](#r1d1314) [d15/16](#r1d1516) [d17](#r1d17) [d18](#r1d18) [d19](#r1d19) [d20](#r1d20)
 * 21-30  
-[Day21](#r1d21) [Day22](#r1d22) [Day23](#r1d23) [Day24](#r1d24) [Day25](#r1d25) [Day26](#r1d26) [Day27](#r1d27) [Day28](#r1d28) [Day29](#r1d29) [Day30](#r1d30)
+[d21](#r1d21) [d22](#r1d22) [d23](#r1d23) [d24](#r1d24) [d25](#r1d25) [d26](#r1d26) [d27](#r1d27) [d28](#r1d28) [d29](#r1d29) [d30](#r1d30)
 * 31-40  
-[Day31](#r1d31) [Day32](#r1d32) [Day33](#r1d33) [Day34](#r1d34) [Day35](#r1d35) [Day36](#r1d36) [Day37](#r1d37) [Day38](#r1d38) [Day39a](#r1d39a) [Day39b](#r1d39b) [Day40](#r1d40)
+[d31](#r1d31) [d32](#r1d32) [d33](#r1d33) [d34](#r1d34) [d35](#r1d35) [d36](#r1d36) [d37](#r1d37) [d38](#r1d38) [d39a](#r1d39a) [d39b](#r1d39b) [d40](#r1d40)
 * 41-51    
-[Day41](#r1d41) [Day42](#r1d42) [Day43](#r1d43) [Day44](#r1d44) [Day45](#r1d45) [Day46\+47](#r1d4647) [Day48\+49](#r1d4849) [Day50\+51](#r1d5051)   
+[d41](#r1d41) [d42](#r1d42) [d43](#r1d43) [d44](#r1d44) [d45](#r1d45) [d46\+47](#r1d4647) [d48\+49](#r1d4849) [d50\+51](#r1d5051)   
 * 52 ...   
-[Day52](#r1d52)
+[d52](#r1d52)
 ---
 
 ## Log
@@ -27,80 +30,87 @@ Table of Contents
 ### R1D1 
 ![gobyes01.png](assets/gobyes/gobyes01.png)   
 My first day was an excurse in understanding the twitter retweet bot from 100DaysOfCode. 
+[tweet-r1d1](https://twitter.com/DetlefBurkhardt/status/955468052396724224)
 
 ### R1D2
 ![gobyes02.png](assets/gobyes/gobyes02.png)   
 Arrange & setup my 100 Days challenge. And by the way: Imho Coding means Reading. To write excellent code like poetry it is important to read the best code you can get in the area you want to grow.
+[tweet-r1d2](https://twitter.com/DetlefBurkhardt/status/955889157565542400)
 
 ### R1D3
 ![gobyes03.png](assets/gobyes/gobyes03.png)   
 Today I decide how my 100 day curriculum should look-a-like.  
-https://twitter.com/DetlefBurkhardt/status/956133235083436033
+[tweet-r1d3](https://twitter.com/DetlefBurkhardt/status/956133235083436033)
 
 ### R1D4
 ![gobyes04.png](assets/gobyes/gobyes04.png)   
 One of my main targets collecting a valuable and reliable golang code corpus. So I can create some SCA Tools, incorporate testing and a streamlined go playground integration.  
-https://twitter.com/DetlefBurkhardt/status/956660194943078401
+[tweet-r1d4](https://twitter.com/DetlefBurkhardt/status/956660194943078401
 
 ### R1D5
+![gobyes05.png](assets/gobyes/gobyes05.png)   
 Day 5 was a more »laborized«-day. It was about walking and failing, content preparing, data cleansing, code experiments with travesing filesystems, thx to filepath.Walk(). Searching and alienating.  
-https://twitter.com/DetlefBurkhardt/status/957192967156051968
+[tweet-r1d5](https://twitter.com/DetlefBurkhardt/status/957192967156051968
 
 ### R1D6
+![gobyes06.png](assets/gobyes/gobyes06.png)   
 Done Clustering of the StdLib, add 4 new gobyes, remove 2. Tried GoReportCard and play around with goplay CLI to get shareable URL's for the go playground.  
-https://twitter.com/DetlefBurkhardt/status/957824970192760832
+[tweet-r1d6](https://twitter.com/DetlefBurkhardt/status/957824970192760832
 
 ### R1D7
+![gobyes07.png](assets/gobyes/gobyes07.png)   
 After repairing the winter-crash of the windows insider upate, now Build 17074, I was able to re-install about the half of my non-microsoft tools. *grr*. But anyway, I could add some really awesome gobyes.
-https://twitter.com/DetlefBurkhardt/status/958496414975348736
+[tweet-r1d7](https://twitter.com/DetlefBurkhardt/status/958496414975348736
 
 ### R1D8
+![gobyes08.png](assets/gobyes/gobyes08.png)   
 My first week was shaped by building the foundation. Beside digging into sort and and flag go package, I added 23 gobyes repositories and created an additional goby-incubator projects for repos which I want to check before adding to the main. The most exciting discovery today was the world of github badges. After GoReportCard I found the overwhelming shields.io solution.
-https://twitter.com/DetlefBurkhardt/status/959015208139272192
+[tweet-r1d8](https://twitter.com/DetlefBurkhardt/status/959015208139272192
 
 ### R1D9
+![gobyes09.png](assets/gobyes/gobyes09.png)   
 Slowly swinging into the finishing straight. Main decision for today was to cut out three repos into the incubator and add another six news, mainly from paperback books. Add a smart mini-navbar so you can step from gobye to gobye. Next, greater challenge is to build a central, streamlined navigation structure. This sounds like a bit more direct go coding, finally.  
-https://twitter.com/DetlefBurkhardt/status/959991330985439232
+[tweet-r1d9](https://twitter.com/DetlefBurkhardt/status/959991330985439232
 
 ### R1D10
+![gobyes10.png](assets/gobyes/gobyes10.png)   
 Refactor the folder structure, prepare tagging all the go-files and incroporate some sloc/cloc/ncss calculations.
-https://twitter.com/DetlefBurkhardt/status/960258486293712897
+[tweet-r1d10](https://twitter.com/DetlefBurkhardt/status/960258486293712897
 
 ### R1D11
 Struggling with non-forking os-processes in go ...  
-https://twitter.com/DetlefBurkhardt/status/960311008878317568
+[tweet-r1d11](https://twitter.com/DetlefBurkhardt/status/960311008878317568
 
 ### R1D12
 Solve some gobye challenges with groovy...  
-https://twitter.com/DetlefBurkhardt/status/960667400977907712
+[tweet-r1d12](https://twitter.com/DetlefBurkhardt/status/960667400977907712
 
 ### R1D13/14
 Just ill. Added some gobyes from Packt. Sorted some to the incubator, and try to get on track again.  
-https://twitter.com/DetlefBurkhardt/status/961214901619392512
+[tweet-r1d13+14](https://twitter.com/DetlefBurkhardt/status/961214901619392512
 
 ### R1D15/16
 Still ill. From bed I can just read alot. I investigate a bit in the github pages stuff. You get an absolut free hosting service with just an "git push" publishing process to an [user].github.io/project URL. That's awesome. Drawback: Autopublishing schedulde around every 5 minutes only, and max size is 1GB. So I decide to use gobeys/docs options to split the #golang code corpus from github publishing, not to run in troubles.  
-https://twitter.com/DetlefBurkhardt/status/961960643883610112
+[tweet-r1d15+16](https://twitter.com/DetlefBurkhardt/status/961960643883610112
 
 
 ### R1D17
 A short sidekick: catching some of the twitter #hashflags see: link.
 A first PoC of our #gobye reading environment is ready see: link.
 Now we have link to automate the rest of the corpus 
-https://twitter.com/DetlefBurkhardt/status/962134060389883905
+[tweet-r1d17](https://twitter.com/DetlefBurkhardt/status/962134060389883905
 
 ### R1D18:
 Today I start to activate RosettaCode as a another gobye repository. This is a bit tricky because the export is an odd mix of xml and wiki markup. Another challenge are the wide spreaded, different using of the capitilisation rules and the use of special signs in the url.  
-https://twitter.com/DetlefBurkhardt/status/962616453311672321
+[tweet-r1d18](https://twitter.com/DetlefBurkhardt/status/962616453311672321
 
 ### R1D19:
 That RosettaCode Trip will take a bit longer, because I'dont want not only add a new gobey-repository. I'm very interested also to add code for some tasks in go, groovy and perhaps typescript / javascript. Based on the Idea of DrThomasMüller I collect all RosettaCode Task in Java, which are no grooynized.  
 For this I have prepared a lot of #groovy-code to extract and streamline a lot of very clever go algorithm today. Enhance my gobye UX POC and decide to investigate a bit more in a vanila js tree navigation. My learnings for today was reading / writing csv, creating a very generic vanila http getter and create an all purpose search and replace util.  
-https://twitter.com/DetlefBurkhardt/status/962843123679465472
+[tweet-r1d19](https://twitter.com/DetlefBurkhardt/status/962843123679465472
 
 
-### R1D20:
-![]( =300px)  
+### R1D20: 
 RosettaCode is not that easy. Just the numbers are more then impressive: 870 Programming Tasks, 206 in Draft. 681 Programming Languages, around 100 Categories and Sub-Categories with multiple parents assignment and everything without mindmap or dot-graph makes it really challenging to get an access to it. 
 Another aspect are the data quality in the snippets and the category structure. From Typo's multiple root-trees with different semantics to classical SCA/Linting weakenings. With the help from golint, go vet, gofmt I could fix around 300 Issues, but there is no upstream interface. All the solutions I found was downstream and this for what ever reason not complete. 
 So, Rosetta is a very high obstacle to climb. But even it costs some days, I hope I will have the power to crack the nut. Lets see.  

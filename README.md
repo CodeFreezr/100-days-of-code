@@ -1,5 +1,8 @@
 # I've joined the #100DaysOfCode Challenge.
 
+![100 Days Of Code](assets/The100-final.png)  
+
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](r1-log.md)
