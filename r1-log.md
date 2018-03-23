@@ -274,8 +274,8 @@ Walker and Recursion in golang. Created a nice du in go, and a func on gist for 
 
 ### R1D53:
 ![gobyes53.png](assets/gobyes/gobeys53.png)  
-Dugo is the linux du in go.
-[tweet-r1d53]()
+Dugo is the linux du in go.  
+[tweet-r1d53](https://twitter.com/DetlefBurkhardt/status/977316523193888771)
 
 
 
