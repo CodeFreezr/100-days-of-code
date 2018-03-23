@@ -20,7 +20,7 @@ Table of Contents
 * 41-51    
 [d41](#r1d41) [d42](#r1d42) [d43](#r1d43) [d44](#r1d44) [d45](#r1d45) [d46\+47](#r1d4647) [d48\+49](#r1d4849) [d50\+51](#r1d5051)   
 * 52 ...   
-[d52](#r1d52)
+[d52](#r1d52) [d53](#r1d53)
 ---
 
 ## Log
@@ -272,7 +272,10 @@ Mittagspause.
 Walker and Recursion in golang. Created a nice du in go, and a func on gist for a number format.
 [tweet-r1d52](https://twitter.com/DetlefBurkhardt/status/977136068360396800)
 
-
+### R1D53:
+![gobyes53.png](assets/gobyes/gobeys53.png)  
+Dugo is the linux du in go.
+[tweet-r1d53]()
 
 
 
