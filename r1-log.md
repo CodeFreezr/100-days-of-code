@@ -7,7 +7,7 @@ Table of Contents
 =================
 
 * 1-10   
-[Day1](#r1d1) [Day2](#r1d2) [Day3](#r1d3) [Day4](#r1d4) [Day5](#r1d5) [Day6](#r1d6) [Day7](#r1d7) [Day8](#r1d8) [Day9](#r1d9) [Day10](#r1d10)  
+[D01](#r1d1) [D02](#r1d2) [D03](#r1d3) [D04](#r1d4) [D05](#r1d5) [D06](#r1d6) [D07](#r1d7) [D08](#r1d8) [D09](#r1d9) [D10](#r1d10)  
 * 11-20  
 [Day11](#r1d11) [Day12](#r1d12) [Day13/14](#r1d1314) [Day15/16](#r1d1516) [Day17](#r1d17) [Day18](#r1d18) [Day19](#r1d19) [Day20](#r1d20)
 * 21-30  
@@ -25,16 +25,20 @@ Table of Contents
 
 
 ### R1D1 
+![gobyes01.png](assets/gobyes/gobyes01.png)   
 My first day was an excurse in understanding the twitter retweet bot from 100DaysOfCode. 
 
 ### R1D2
+![gobyes02.png](assets/gobyes/gobyes02.png)   
 Arrange & setup my 100 Days challenge. And by the way: Imho Coding means Reading. To write excellent code like poetry it is important to read the best code you can get in the area you want to grow.
 
 ### R1D3
+![gobyes03.png](assets/gobyes/gobyes03.png)   
 Today I decide how my 100 day curriculum should look-a-like.  
 https://twitter.com/DetlefBurkhardt/status/956133235083436033
 
 ### R1D4
+![gobyes04.png](assets/gobyes/gobyes04.png)   
 One of my main targets collecting a valuable and reliable golang code corpus. So I can create some SCA Tools, incorporate testing and a streamlined go playground integration.  
 https://twitter.com/DetlefBurkhardt/status/956660194943078401
 
