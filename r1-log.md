@@ -232,9 +232,14 @@ Two things today & yesterday for my learning course. (a) Analysing more Hugo-The
 Same stuff than the last three day.  
 [tweet-r1d47+48](https://twitter.com/DetlefBurkhardt/status/975825883155050496)  
 
+### R1D50+51:
+Pause.
+[tweet-r1d50+51](https://twitter.com/DetlefBurkhardt/status/976771903607263232)
 
-### R1D50:
-tbd.  
+### R1D52:
+Walker and Recursion in golang. Created a nice du in go, and a func on gist for a number format.
+[tweet-r1d52](https://twitter.com/DetlefBurkhardt/status/977136068360396800)
+
 
 
 
