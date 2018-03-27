@@ -20,7 +20,7 @@ Table of Contents
 * 41-51    
 [d41](#r1d41) [d42](#r1d42) [d43](#r1d43) [d44](#r1d44) [d45](#r1d45) [d46\+47](#r1d4647) [d48\+49](#r1d4849) [d50\+51](#r1d5051)   
 * 52 ...   
-[d52](#r1d52) [d53](#r1d53)
+[d52](#r1d52) [d53](#r1d53)  [d54](#r1d54) [d55\+56](#r1d5556)
 ---
 
 ## Log
@@ -278,9 +278,14 @@ Walker and Recursion in golang. Created a nice du in go, and a func on gist for 
 Dugo is the linux du in go.  
 [tweet-r1d53](https://twitter.com/DetlefBurkhardt/status/977316523193888771)
 
+### R1D54:
+![gobyes54.png](assets/gobyes/gobeys54.png)  
+Dugo is the linux du in go.  
+[tweet-r1d54](https://twitter.com/DetlefBurkhardt/status/978054312164282368)
 
-### R1D55+55:
-![]()  
+
+### R1D55+56:
+![gobyes55-56.png](assets/gobyes/gobyes55-56.png)  
 Jumping deep into the graphviz.org documentation to blast the monolithic pdf-documentation into hundres of single markdown files. So that is possible to wirk with them in a wiki-approach.
 [tweet-r1d54+55]()
 
