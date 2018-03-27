@@ -28,12 +28,12 @@ Table of Contents
 
 ### R1D1 
 ![gobyes01.png](assets/gobyes/gobyes01.png)   
-My first day was an excurse in understanding the twitter retweet bot from 100DaysOfCode. 
+My first day was an excurse in understanding the twitter retweet bot from 100DaysOfCode.  
 [tweet-r1d1](https://twitter.com/DetlefBurkhardt/status/955468052396724224)
 
 ### R1D2
 ![gobyes02.png](assets/gobyes/gobyes02.png)   
-Arrange & setup my 100 Days challenge. And by the way: Imho Coding means Reading. To write excellent code like poetry it is important to read the best code you can get in the area you want to grow.
+Arrange & setup my 100 Days challenge. And by the way: Imho Coding means Reading. To write excellent code like poetry it is important to read the best code you can get in the area you want to grow.  
 [tweet-r1d2](https://twitter.com/DetlefBurkhardt/status/955889157565542400)
 
 
@@ -102,11 +102,11 @@ Still ill. From bed I can just read alot. I investigate a bit in the github page
 ![gobyes10.png](assets/gobyes/gobyes10.png)  
 A short sidekick: catching some of the twitter #hashflags see: link.
 A first PoC of our #gobye reading environment is ready see: link.
-Now we have link to automate the rest of the corpus 
+Now we have link to automate the rest of the corpus   
 [tweet-r1d17](https://twitter.com/DetlefBurkhardt/status/962134060389883905)
 
 ### R1D18:
-![gobeys-on-rosetta.jpg](assets/gobyes/gobeys-on-rosetta.jpg)  
+<img width="512" src="assets/gobyes/gobeys-on-rosetta.png"/>  
 Today I start to activate RosettaCode as a another gobye repository. This is a bit tricky because the export is an odd mix of xml and wiki markup. Another challenge are the wide spreaded, different using of the capitilisation rules and the use of special signs in the url.  
 [tweet-r1d18](https://twitter.com/DetlefBurkhardt/status/962616453311672321)
 
