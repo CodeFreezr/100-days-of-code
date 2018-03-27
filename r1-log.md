@@ -287,7 +287,7 @@ Dugo is the linux du in go.
 ### R1D55+56:
 ![gobyes55-56.png](assets/gobyes/gobyes55-56.png)  
 Jumping deep into the graphviz.org documentation to blast the monolithic pdf-documentation into hundres of single markdown files. So that is possible to wirk with them in a wiki-approach.
-[tweet-r1d54+55]()
+[tweet-r1d54+55](https://twitter.com/DetlefBurkhardt/status/978660251347152897)
 
 
 
