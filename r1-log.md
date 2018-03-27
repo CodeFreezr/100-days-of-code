@@ -1,7 +1,7 @@
 # #100DaysOfCode Log - Round 1 - CodeFreezr
 
 
-![100 Days Of Code](assets/The100-final.png)  
+<img qidth="400" src="assets/The100-final.png">/
 
 The log of my #100DaysOfCode challenge. Started on [January 23, Tuesday, 2018]
 
