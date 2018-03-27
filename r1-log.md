@@ -279,8 +279,13 @@ Dugo is the linux du in go.
 [tweet-r1d53](https://twitter.com/DetlefBurkhardt/status/977316523193888771)
 
 ### R1D54:
-![gobyes54.png](assets/gobyes/gobeys54.png)  
-Dugo is the linux du in go.  
+![gobyes54.png](assets/gobyes/gobeys54.png)    
+(1) Recursion ain't evil  
+(2) otherwise or not call (1)   
+  
+Non-Recursion is also not a solution... damn!  
+  
+For now I put my #golang #hugoSSG #Themedog a bit on hold to focus back on the #graphviz.org revamp itself. Hope that delights @magneticnorth in the cold NJ.  
 [tweet-r1d54](https://twitter.com/DetlefBurkhardt/status/978054312164282368)
 
 
