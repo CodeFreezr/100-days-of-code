@@ -36,6 +36,7 @@ My first day was an excurse in understanding the twitter retweet bot from 100Day
 Arrange & setup my 100 Days challenge. And by the way: Imho Coding means Reading. To write excellent code like poetry it is important to read the best code you can get in the area you want to grow.
 [tweet-r1d2](https://twitter.com/DetlefBurkhardt/status/955889157565542400)
 
+
 ### R1D3
 ![gobyes03.png](assets/gobyes/gobyes03.png)   
 Today I decide how my 100 day curriculum should look-a-like.  
@@ -278,6 +279,10 @@ Dugo is the linux du in go.
 [tweet-r1d53](https://twitter.com/DetlefBurkhardt/status/977316523193888771)
 
 
+### R1D55+55:
+![]()  
+Jumping deep into the graphviz.org documentation to blast the monolithic pdf-documentation into hundres of single markdown files. So that is possible to wirk with them in a wiki-approach.
+[tweet-r1d54+55]()
 
 
 
