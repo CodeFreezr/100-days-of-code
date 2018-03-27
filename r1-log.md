@@ -73,7 +73,7 @@ Slowly swinging into the finishing straight. Main decision for today was to cut 
 [tweet-r1d9](https://twitter.com/DetlefBurkhardt/status/959991330985439232)
 
 ### R1D10
-![gobyes10.png](assets/gobyes/gobyes10.png)   
+<img width="512" src="assets/gobyes/gobyes10.png"/>
 Refactor the folder structure, prepare tagging all the go-files and incroporate some sloc/cloc/ncss calculations.
 [tweet-r1d10](https://twitter.com/DetlefBurkhardt/status/960258486293712897)
 
