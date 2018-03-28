@@ -294,5 +294,8 @@ For now I put my #golang #hugoSSG #Themedog a bit on hold to focus back on the #
 Jumping deep into the graphviz.org documentation to blast the monolithic pdf-documentation into hundres of single markdown files. So that is possible to wirk with them in a wiki-approach.  
 [tweet-r1d55+56](https://twitter.com/DetlefBurkhardt/status/978660251347152897)
 
-
+### R1D57:
+![gobyes57.png](assets/gobyes/gobyes57.png)  
+Slurping JSON an creating a lot of markdown files today.
+[tweet-r1d57](https://twitter.com/DetlefBurkhardt/status/979081503073296385)
 
