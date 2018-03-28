@@ -31,7 +31,7 @@ Table of Contents
 My first day was an excurse in understanding the twitter retweet bot from 100DaysOfCode.  
 [tweet-r1d1](https://twitter.com/DetlefBurkhardt/status/955468052396724224)
 
-### R1D2
+### R1D2 
 ![gobyes02.png](assets/gobyes/gobyes02.png)   
 Arrange & setup my 100 Days challenge. And by the way: Imho Coding means Reading. To write excellent code like poetry it is important to read the best code you can get in the area you want to grow.  
 [tweet-r1d2](https://twitter.com/DetlefBurkhardt/status/955889157565542400)
