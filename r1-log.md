@@ -26,6 +26,7 @@ Table of Contents
 ## Log
 
 
+
 ### R1D1 
 ![gobyes01.png](assets/gobyes/gobyes01.png)   
 My first day was an excurse in understanding the twitter retweet bot from 100DaysOfCode.  
