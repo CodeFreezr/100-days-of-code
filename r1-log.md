@@ -19,8 +19,8 @@ Table of Contents
 [d31](#r1d31) [d32](#r1d32) [d33](#r1d33) [d34](#r1d34) [d35](#r1d35) [d36](#r1d36) [d37](#r1d37) [d38](#r1d38) [d39a](#r1d39a) [d39b](#r1d39b) [d40](#r1d40)
 * 41-51    
 [d41](#r1d41) [d42](#r1d42) [d43](#r1d43) [d44](#r1d44) [d45](#r1d45) [d46\+47](#r1d4647) [d48\+49](#r1d4849) [d50\+51](#r1d5051)   
-* 52 ...   
-[d52](#r1d52) [d53](#r1d53)  [d54](#r1d54) [d55\+56](#r1d5556)
+* 52-59   
+[d52](#r1d52) [d53](#r1d53) [d54](#r1d54) [d55\+56](#r1d5556) [d57](#r1d57) [d58](#r1d58) [d59](#r1d59)
 ---
 
 ## Log
@@ -301,10 +301,12 @@ Slurping JSON an creating a lot of markdown files today.
 [tweet-r1d57](https://twitter.com/DetlefBurkhardt/status/979081503073296385)
 
 ### R1D58:  
-Nested Sections works only with Hugo version 0.22 and up... Gnarf ...
+![gobyes58-59.png](assets/gobyes/gobyes58-59.png)  
+Nested Sections works only with Hugo version 0.22 and up... Gnarf ... Alot guides, videos, tipps, tricks and workaround are older or even did not mention this version change.
 
 
 ### R1D59:  
+![hugo-themes-database.png](hugo-themes-database.png)  
 If you develop themes for hugo you have to consider dependencies to different hugo versions. And after theme and the hugo binary is content itself the third demension. Because of the different features of a theme the content has more ore less deep dependencies to a specific theme. Switching a theme could be not that easy. And not all content architecture is with all hugo versions compatible. This could makes things even more complicated if you can't managing the exact hugo version for e.g. on gitlab or netlify. 
 On the other side we have over 210 themes and growing without deeper information about all the content requirements, hugo versions, feature support etc. pp. So I decide to start a tentatice codelab for hugo to elaborate the possibility to build a hugo-themes database. At first I would collect the entities and attributes like release-date, version, feature, ...
 
