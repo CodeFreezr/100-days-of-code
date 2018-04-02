@@ -300,7 +300,9 @@ Jumping deep into the graphviz.org documentation to blast the monolithic pdf-doc
 Slurping JSON an creating a lot of markdown files today.
 [tweet-r1d57](https://twitter.com/DetlefBurkhardt/status/979081503073296385)
 
-### R1D58-59:  
+### R1D58:  
 Nested Sections works only with Hugo version 0.22 and on... Gnarf ...
 
+
+### R1D59:  
 
