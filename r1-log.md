@@ -315,5 +315,38 @@ Beyond we have over 210 themes and growing without deeper information or selecta
 Analysing and inspecting 212 Hugo Themes. 27 of them fitting my technical requirements, 3 of them has the whished features. Next time I would write some SCA rules to automate this, and beforehand I would put all of this into a simple database.  
 [tweet-r1d60](https://twitter.com/DetlefBurkhardt/status/981035697401364480)
 
+### R1D61:
+![gobyes61.png](assets/gobyes/gobyes61.png)  
+After analysing, here our top themes:  
+Top Three:  
+"hugo-theme-bleak" Great animations  
+"hugo-theme-docdock" Perfect Section Based Navigation  
+"hugo-theme-learn" Great Section Menu grav based, super source code with copy function  
+
+Great Themes: 
+"beautifulhugo" Origin of LucentSpring  
+"cocoa-hugo-theme" Let's have a look  
+"ghostwriter"  
+"gohugo-theme-ananke"  
+"grid-side"  
+"herring-cove" good twitter  
+"hpstr-hugo-theme" great menu but many errors  
+"hugo-bare-min-theme" because of Debug-Output  
+"hugo-base16-theme" nice dark theme, but no _index.md  
+"hugo-classic" clear   
+"hugo-code-editor-theme" dark blue  
+"hugo-fabric"   
+"hugo-future-imperfect" nice menu and search but no list templates  
+"hugo-geo" nice layout-flip for smaller devices  
+"hugo-hello-programmer-theme"   
+"hugo-kiera"  
+"hugo-now-ui" nice heade, menu and cards  
+"hugo-theme-air" Fune Homepage with moving graph  
+"hugo-theme-bootie-docs" Good Black Top  
+"hugo-theme-introduction" Great Black with cool Homepage   
+"hugo-theme-projecthub" nice Listpage with o-o  
+"hugo-theme-revealjs" great dark slide.com look-a-like  
+"hugo-theme-wave" nice grid heatmap  
+
 
 
