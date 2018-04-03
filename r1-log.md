@@ -303,17 +303,17 @@ Slurping JSON an creating a lot of markdown files today.
 ### R1D58:  
 ![gobyes58-59.png](assets/gobyes/gobyes58-59.png)  
 Nested Sections works only with Hugo version 0.22 and up... Gnarf ... Alot guides, videos, tipps, tricks and workaround are older or even did not mention this version change.   
-[]()
+[tweet-r1d58](https://twitter.com/DetlefBurkhardt/status/980202981097435136)
 
 ### R1D59:  
 ![hugo-themes-database.png](assets/gobyes/hugo-themes-database.png)  
 If you develop themes for hugo you have to consider dependencies to different hugo versions. And after theme and the hugo binary is content itself the third demension. Because of the different features of a theme the content has more ore less deep dependencies to a specific theme. Switching a theme could be not that easy. And not all content architecture is with all hugo versions compatible. This could makes things even more complicated if you can't managing the exact hugo version for e.g. on gitlab or netlify.    
 Beyond we have over 210 themes and growing without deeper information or selectable filter about all the content requirements, hugo versions, feature support etc. pp. So I decide to start a tentatice codelab for hugo to elaborate the possibility to build a hugo-themes database. At first I would collect the entities and attributes like release-date, version, feature, ...   
-[]()
+[tweet-r1d59](https://twitter.com/DetlefBurkhardt/status/980785011715706881)
 
 ### R1D60:  
 Analysing and inspecting 212 Hugo Themes. 27 of them fitting my technical requirements, 3 of them has the whished features. Next time I would write some SCA rules to automate this, and beforehand I would put all of this into a simple database.  
-[]()
+[tweet-r1d60](https://twitter.com/DetlefBurkhardt/status/981035697401364480)
 
 
 
