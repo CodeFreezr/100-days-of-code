@@ -317,13 +317,15 @@ Analysing and inspecting 212 Hugo Themes. 27 of them fitting my technical requir
 
 ### R1D61:
 ![gobyes61.png](assets/gobyes/gobyes61.png)  
+
 After analysing, here our top themes:  
-Top Three:  
+
+#### Top Three:  
 "hugo-theme-bleak" Great animations  
 "hugo-theme-docdock" Perfect Section Based Navigation  
 "hugo-theme-learn" Great Section Menu grav based, super source code with copy function  
 
-Great Themes: 
+#### Great Themes:  
 "beautifulhugo" Origin of LucentSpring  
 "cocoa-hugo-theme" Let's have a look  
 "ghostwriter"  
