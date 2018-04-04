@@ -328,7 +328,7 @@ After analysing, here our top themes:
 #### Great Themes:  
 "beautifulhugo" Origin of LucentSpring  
 "cocoa-hugo-theme" Let's have a look  
-"ghostwriter"  
+"ghostwriter"   
 "gohugo-theme-ananke"  
 "grid-side"  
 "herring-cove" good twitter  
