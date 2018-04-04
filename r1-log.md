@@ -352,4 +352,7 @@ After analysing, here our top themes:
 [tweet-r1d61](https://twitter.com/DetlefBurkhardt/status/981440006576275456)
 
 
-
+### R1D62:
+![gobyes62.png](assets/gobyes/gobyes62.png)  
+Making some steps twowards the hugo-theme-database to provide a starting point for our hugo theme award 2018. #hugothemes2018
+[tweet-r1d61](https://twitter.com/DetlefBurkhardt/status/981663541676707841)
