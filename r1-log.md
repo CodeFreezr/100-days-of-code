@@ -3,7 +3,7 @@
 
 <img width="300" src="assets/The100-final.png"/>
 
-The log of my  #100DaysOfCode challenge. Started on [January 23, Tuesday, 2018]
+The log of my #100DaysOfCode challenge. Started on [January 23, Tuesday, 2018]
 
 
 Table of Contents
@@ -354,5 +354,13 @@ After analysing, here our top themes:
 
 ### R1D62:
 ![gobyes62.png](assets/gobyes/gobyes62.png)  
-Making some steps twowards the hugo-theme-database to provide a starting point for our hugo theme award 2018. #hugothemes2018
-[tweet-r1d61](https://twitter.com/DetlefBurkhardt/status/981663541676707841)
+Making some steps twowards the hugo-theme-database to provide a starting point for our hugo theme award 2018. #hugothemes2018  
+[tweet-r1d62](https://twitter.com/DetlefBurkhardt/status/981663541676707841)  
+
+### R1D63:
+![]() 
+More preparation for the hugo-themes-award 2018.  
+[tweet-r1d62](https://twitter.com/DetlefBurkhardt/status/982757645953257472)  
+
+
+
