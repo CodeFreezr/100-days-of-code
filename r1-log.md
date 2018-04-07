@@ -357,8 +357,9 @@ After analysing, here our top themes:
 Making some steps twowards the hugo-theme-database to provide a starting point for our hugo theme award 2018. #hugothemes2018  
 [tweet-r1d62](https://twitter.com/DetlefBurkhardt/status/981663541676707841)  
 
+
 ### R1D63:
-![]() 
+![gobyes63.png](assets/gobyes/gobyes63.png)  
 More preparation for the hugo-themes-award 2018.  
 [tweet-r1d62](https://twitter.com/DetlefBurkhardt/status/982757645953257472)  
 
