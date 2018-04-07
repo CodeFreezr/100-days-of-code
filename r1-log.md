@@ -364,7 +364,7 @@ Making some steps twowards the hugo-theme-database to provide a starting point f
 ### R1D63:
 ![gobyes63.png](assets/gobyes/gobyes63.png)  
 More preparation for the hugo-themes-award 2018.  
-[tweet-r1d62](https://twitter.com/DetlefBurkhardt/status/982757645953257472)  
+[tweet-r1d63](https://twitter.com/DetlefBurkhardt/status/982757645953257472)  
 
 
 
