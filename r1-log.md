@@ -3,7 +3,7 @@
 
 <img width="300" src="assets/The100-final.png"/>
 
-The log of my #100DaysOfCode challenge. Started on [January 23, Tuesday, 2018]
+The log of my  #100DaysOfCode challenge. Started on [January 23, Tuesday, 2018]
 
 
 Table of Contents
