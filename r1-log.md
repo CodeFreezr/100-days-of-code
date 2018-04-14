@@ -377,4 +377,6 @@ It's Easter, it's holliday.
 ![gobyes71.png](assets/gobyes/gobyes71.png)  
 Back from Easter break. Complete Encapsulation of the content into three json-files (entities, attributes, types), to generate hugo templates in different approaches. Just for the graphviz revamp.
 
+### R1D72:
+More JSON based generations.   
 
