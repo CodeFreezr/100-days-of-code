@@ -22,7 +22,7 @@ Table of Contents
 * 52-60   
 [d52](#r1d52) [d53](#r1d53) [d54](#r1d54) [d55\+56](#r1d5556) [d57](#r1d57) [d58](#r1d58) [d59](#r1d59) [d60](#r1d60)
 * 61-70   
- [d61](#r1d61) [d62](#r1d62) [d63](#r1d63)  
+ [d61](#r1d61) [d62](#r1d62) [d63](#r1d63)  [d64-70](#r1d64-70)  
  Hollidays
 * 71-
 
@@ -369,8 +369,8 @@ More preparation for the hugo-themes-award 2018.
 [tweet-r1d63](https://twitter.com/DetlefBurkhardt/status/982763193071292416)  
 
 ### R1D64-70:
-![gobyes63.png](assets/gobyes/gobyes63.png)  
-It's Easter, it's holliday. 
+<img width="512" src="assets/gobyes/gobyes64-70.png"/>  
+It's Easter, it's holliday.  
 
 ### R1D71:
 Back from Easter break. Complete Encapsulation of the content into three json-files (entities, attributes, types), to generate hugo templates in different approaches.
