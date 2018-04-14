@@ -369,7 +369,7 @@ More preparation for the hugo-themes-award 2018.
 [tweet-r1d63](https://twitter.com/DetlefBurkhardt/status/982763193071292416)  
 
 ### R1D64-70:
-<img width="512" src="assets/gobyes/gobyes64-70.png"/>  
+<img width="512" src="assets/gobyes/gobeys64-70.png"/>  
 It's Easter, it's holliday.  
 
 ### R1D71:
