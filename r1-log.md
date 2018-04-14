@@ -371,8 +371,10 @@ More preparation for the hugo-themes-award 2018.
 ### R1D64-70:
 <img width="512" src="assets/gobyes/gobeys64-70.png"/>  
 It's Easter, it's holliday.  
+[tweet-r1d64-70](https://twitter.com/DetlefBurkhardt/status/983577143266435072)
 
 ### R1D71:
-Back from Easter break. Complete Encapsulation of the content into three json-files (entities, attributes, types), to generate hugo templates in different approaches.
+![gobyes71.png](assets/gobyes/gobyes71.png)  
+Back from Easter break. Complete Encapsulation of the content into three json-files (entities, attributes, types), to generate hugo templates in different approaches. Just for the graphviz revamp.
 
 
