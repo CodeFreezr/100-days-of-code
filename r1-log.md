@@ -25,7 +25,8 @@ Table of Contents
  [d61](#r1d61) [d62](#r1d62) [d63](#r1d63)  [d64-70](#r1d64-70)  
  Hollidays
 * 71-
-
+ [d71](#r1d71) [d72](#r1d72)
+ 
 ---
 
 ## Log
@@ -374,9 +375,12 @@ It's Easter, it's holliday.
 [tweet-r1d64-70](https://twitter.com/DetlefBurkhardt/status/983577143266435072)
 
 ### R1D71:
-![gobyes71.png](assets/gobyes/gobyes71.png)  
-Back from Easter break. Complete Encapsulation of the content into three json-files (entities, attributes, types), to generate hugo templates in different approaches. Just for the graphviz revamp.
+![gobyes71.png](assets/gobyes/gobyes71.png)    
+Back from Easter break. Complete Encapsulation of the content into three json-files (entities, attributes, types), to generate hugo templates in different approaches. Just for the graphviz revamp.  
+[tweet-r1d71](https://twitter.com/DetlefBurkhardt/status/985105764229566464)   
 
 ### R1D72:
-More JSON based generations.   
+![gobyes72.png](assets/gobyes/gobyes72.png)  
+More JSON based generations with groovy to layout the common ground in markdown.   
+[tweet-r1d72](https://twitter.com/DetlefBurkhardt/status/985467319148253184)   
 
