@@ -385,3 +385,9 @@ Back from Easter break. Complete Encapsulation of the content into three json-fi
 More JSON based generations with groovy to layout the common ground in markdown.   
 [tweet-r1d72](https://twitter.com/DetlefBurkhardt/status/985467319148253184)   
 
+### R1D73:
+![gobyes73.png](assets/gobyes/gobyes73.png)  
+Less JSON more markdown, more Front-Matter.   
+[tweet-r1d73]()   
+
+
