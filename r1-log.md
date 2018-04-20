@@ -390,4 +390,7 @@ More JSON based generations with groovy to layout the common ground in markdown.
 Less JSON more markdown, more Front-Matter.   
 [tweet-r1d73]()   
 
-
+### R1D74:
+![gobyes74.png](assets/gobyes/gobyes74.png)  
+Some Updates for the gobeys golang repository: http://bit.ly/git-gobyes   
+[tweet-r1d74]()   
