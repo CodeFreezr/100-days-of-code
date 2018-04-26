@@ -388,14 +388,15 @@ More JSON based generations with groovy to layout the common ground in markdown.
 ### R1D73:
 ![gobyes73.png](assets/gobyes/gobyes73.png)  
 Less JSON more markdown, more Front-Matter.   
-[tweet-r1d73]()   
+[tweet-r1d73](https://twitter.com/DetlefBurkhardt/status/985822359318941696)   
 
 ### R1D74:
 ![gobyes74.png](assets/gobyes/gobyes74.png)  
 Some Updates for the gobeys golang repository: http://bit.ly/git-gobyes   
-[tweet-r1d74]()   
+[tweet-r1d74](https://twitter.com/DetlefBurkhardt/status/987379972854681601)   
 
 ### R1D75:
 ![gobyes75.png](assets/gobyes/gobyes75.png)  
 Ok, too much work on one hand, and a lot of challenges on niantic ingress. So I decide to fullfill up to 100 Days but not on a day-by-day basis. 
-So for today I have found a really great git-repo with a lot of cli cheatsheets every developer should star, fork or even bookmark: https://github.com/mcandre/cheatsheets
+So for today I have found a really great git-repo with a lot of cli cheatsheets every developer should star, fork or even bookmark: https://github.com/mcandre/cheatsheets   
+tweet-r1d75](https://twitter.com/DetlefBurkhardt/status/989595376142422016)   
