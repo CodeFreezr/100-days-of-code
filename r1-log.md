@@ -398,5 +398,5 @@ Some Updates for the gobeys golang repository: http://bit.ly/git-gobyes
 ### R1D75:
 ![gobyes75.png](assets/gobyes/gobyes75.png)  
 Ok, too much work on one hand, and a lot of challenges on niantic ingress. So I decide to fullfill up to 100 Days but not on a day-by-day basis. 
-So for today I have found a really great git-repo with a lot of cli cheatsheets every developer should star, fork or even bookmark: https://github.com/mcandre/cheatsheets   
-tweet-r1d75](https://twitter.com/DetlefBurkhardt/status/989595376142422016)   
+So for today I have found a really great git-repo with a lot of cli cheatsheets every developer should star, fork or even bookmark: https://github.com/mcandre/cheatsheets     
+[tweet-r1d75](https://twitter.com/DetlefBurkhardt/status/989595376142422016)   
