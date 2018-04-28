@@ -403,5 +403,5 @@ So for today I have found a really great git-repo with a lot of cli cheatsheets 
 
 ### R1D76:  
 ![gobyes76.png](assets/gobyes/gobyes76.png)  
-Not only my actual IT-Project thinks about it, but also the #graphviz homepage code is #gitlab based. And if you think twice to support #FOSS, you should select also a git-solution which ist #FOSS by itself. So I decide to enhance my jenkins-code-lab with a [gitlab section](http://bit.ly/jks-glab).  
-[tweet-r1d76]()   
+Not only my actual IT-Project thinks about it, but also the #graphviz homepage code is #gitlab based. And if you think twice to support #FOSS, you should select also a git-solution which is #FOSS by itself. So I decide to enhance my jenkins-code-lab with a [gitlab section](http://bit.ly/jks-glab).  
+[tweet-r1d76](https://twitter.com/DetlefBurkhardt/status/990154111491432449)   
