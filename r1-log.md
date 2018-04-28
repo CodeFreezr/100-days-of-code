@@ -25,7 +25,7 @@ Table of Contents
  [d61](#r1d61) [d62](#r1d62) [d63](#r1d63)  [d64-70](#r1d64-70)  
  Hollidays
 * 71-   
- [d71](#r1d71) [d72](#r1d72) [d73](#r1d73) [d74](#r1d74) [d75](#r1d75) 
+ [d71](#r1d71) [d72](#r1d72) [d73](#r1d73) [d74](#r1d74) [d75](#r1d75) [d76](#r1d76) 
  
 ---
 
@@ -400,3 +400,8 @@ Some Updates for the gobeys golang repository: http://bit.ly/git-gobyes
 Ok, too much work on one hand, and a lot of challenges on niantic ingress. So I decide to fullfill up to 100 Days but not on a day-by-day basis. 
 So for today I have found a really great git-repo with a lot of cli cheatsheets every developer should star, fork or even bookmark: https://github.com/mcandre/cheatsheets     
 [tweet-r1d75](https://twitter.com/DetlefBurkhardt/status/989595376142422016)   
+
+### R1D76:  
+![gobyes76.png](assets/gobyes/gobyes76.png)  
+Not only my actual IT-Project thinks about it, but also the #graphviz homepage code is #gitlab based. And if you think twice to support #FOSS, you should select also a git-solution which ist #FOSS by itself. So I decide to enhance my jenkins-code-lab with a [gitlab section](http://bit.ly/jks-glab).  
+[tweet-r1d76]()   
