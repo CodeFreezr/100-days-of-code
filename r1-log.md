@@ -405,3 +405,14 @@ So for today I have found a really great git-repo with a lot of cli cheatsheets 
 ![gobyes76.png](assets/gobyes/gobyes76.png)  
 Not only my actual IT-Project thinks about it, but also the #graphviz homepage code is #gitlab based. And if you think twice to support #FOSS, you should select also a git-solution which is #FOSS by itself. So I decide to enhance my jenkins-code-lab with a [gitlab section](http://bit.ly/jks-glab).  
 [tweet-r1d76](https://twitter.com/DetlefBurkhardt/status/990154111491432449)   
+
+### R1D77:
+![gobyes77.png](assets/gobyes/gobyes77.png)  
+Trying Minishift. Not sure if I want the W8 Hyper-V driver or the Virtualbox VM.  
+Hyper-V needs a lot of System-Preperations:  
+1. Add local user to Hyper-V Admin Group  
+1. Logout / Login or Restart
+1. Setup an external Switch if not allready done, via "Hyper-V Manger" name it for eg. "ExternalSwitch"
+1. Add system environment variable: setx HYPERV_VIRTUAL_SWITCH "ExternalSwitch" or setx HYPERV_VIRTUAL_SWITCH "ExternalSwitch"
+1. set Hyper-V as minishift driver: minishift config set vm-driver hyperv (typo in docu! minishfit vs. minishift)
+1. start console as admin (!) and minishift start
