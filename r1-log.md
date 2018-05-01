@@ -415,4 +415,18 @@ Hyper-V needs a lot of System-Preperations:
 1. Setup an external Switch if not allready done, via "Hyper-V Manger" name it for eg. "ExternalSwitch"
 1. Add system environment variable: setx HYPERV_VIRTUAL_SWITCH "ExternalSwitch" or setx HYPERV_VIRTUAL_SWITCH "ExternalSwitch"
 1. set Hyper-V as minishift driver: minishift config set vm-driver hyperv (typo in docu! minishfit vs. minishift)
-1. start console as admin (!) and minishift start
+1. start console as admin (!) and minishift start  
+  
+Ok, trade offs for using Hype-V:  
+* It must runs as Admin
+* Switchs (Proxies) are bound to your network connection
+* It seems not easy to transport to another dev machine
+* It takes up to 3 Minutes to start
+
+
+### R1D78: 
+While there are a some trade offs using Hyper-V for minishift. There is one argument atm: It works. So before jumping into the minishift on virtualbox (saw a lot of support tickets out there), I wil try jx on my local hyper-v'ed minishift.   
+Steps you need before:  
+Helm
+
+
