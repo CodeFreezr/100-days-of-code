@@ -425,8 +425,12 @@ Ok, trade offs for using Hype-V:
 
 
 ### R1D78: 
-While there are a some trade offs using Hyper-V for minishift. There is one argument atm: It works. So before jumping into the minishift on virtualbox (saw a lot of support tickets out there), I wil try jx on my local hyper-v'ed minishift.   
-Steps you need before:  
-Helm
+![gobyes78.png](assets/gobyes/gobyes78.png) 
+WLS: Windows Subsystem for Linux. This is not another git-bash cygwin spin-off. With this Windows Feature you just can run ubuntu, debian, suse and kali, if you want in parallel, ootb on your windows10 machine in minutes. Three easy steps and you're in:
 
+a) Enter "Windows Features" in your search box, select WLS
+b) Search "Windows Sub" inside Windows Store and download your fav. Linux Distribution
+c) Enter ubuntu / opensuse_42 / kali or debian in your windows search box... tadaaa.
+
+This a damn good basis for a polyglot bash'ing and coding. And an absolut awesome argument to kill your windows-7 museum and enter the state-of-bash.
 
