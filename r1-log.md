@@ -425,7 +425,7 @@ Ok, trade offs for using Hype-V:
 
 
 ### R1D78: 
-![gobyes78.png](assets/gobyes/gobyes78.png) 
+![gobyes78.png](assets/gobyes/gobyes78.png)   
 WLS: Windows Subsystem for Linux. This is not another git-bash cygwin spin-off. With this Windows Feature you just can run ubuntu, debian, suse and kali, if you want in parallel, ootb on your windows10 machine in minutes. Three easy steps and you're in:
 
 a) Enter "Windows Features" in your search box, select WLS
