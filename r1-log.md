@@ -434,3 +434,27 @@ c) Enter ubuntu / opensuse_42 / kali or debian in your windows search box... tad
 
 This a damn good basis for a polyglot bash'ing and coding. And an absolut awesome argument to kill your windows-7 museum and enter the state-of-bash.
 
+Let's see if this could happen:
+79: mobaxterm
+80: Starting my K8s with minishift
+81: Setup my KubeLab
+82: Online Tutorial
+83: Udemy
+84: K8 as Examples
+85: Visualise K8s
+86: 
+87: 
+88: Helm Charts -> Chart of the day
+89: Deploying a chart into openshift
+90: ELK as K8
+91: jenkins as K8
+92: AMIGO EKS, AKS, IBM, GKE, OpenShift ....
+93: AKS
+94: 
+95: 
+96: 
+97: Rancher
+98: kubeView o.ä.
+99: My Log
+100: My CodeLab's
+
